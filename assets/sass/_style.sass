@@ -1,11 +1,18 @@
 
 header#document-header
+    nav
+        button[type="button"]
+            color: white
     @include media-breakpoint-up(desktop)
         .container
             flex-direction: column
             .logo
                 margin: 10px 0 30px
-
+.has-menu-opened
+    header#document-header
+        nav
+            button[type="button"]
+                color: black
 #navigation
     @include media-breakpoint-up(desktop)
         span, a
@@ -17,10 +24,6 @@ header#document-header
 .pages__section, 
 .page__home
     .hero
-        h1, hgroup, .breadcrumb
-            position: relative
-            z-index: 10 
-            text-align: center
         figure
             position: absolute
             top: 0
