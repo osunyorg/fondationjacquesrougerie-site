@@ -14,8 +14,8 @@ items:
   kind: blank
   children: []
 - title: Fondation
-  target: ''
-  kind: blank
+  target: "/la-fondation/"
+  kind: page
   children: []
 - title: Actualités
   target: "/actualites/"
