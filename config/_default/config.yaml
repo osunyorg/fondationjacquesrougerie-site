@@ -6,3 +6,5 @@ params:
   logo:
     header: "/assets/images/logo-icon-white.svg"
     footer: "/assets/images/logo-white.svg"
+  breadcrumb:
+    position: after-hero
