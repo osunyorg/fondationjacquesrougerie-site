@@ -4,11 +4,11 @@ items:
 - title: Mer
   target: ''
   kind: blank
-  children:
-  - title: Espace
-    target: ''
-    kind: blank
-    children: []
+  children: []
+- title: Espace
+  target: ''
+  kind: blank
+  children: []
 - title: Art
   target: ''
   kind: blank
