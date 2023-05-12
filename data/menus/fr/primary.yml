@@ -17,12 +17,12 @@ items:
   target: "/la-fondation/"
   kind: page
   children: []
-- title: Actualités
-  target: "/actualites/"
-  kind: page
-  children: []
 - title: La Fondation
   target: "/la-fondation/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/actualites/"
   kind: page
   children: []
 
