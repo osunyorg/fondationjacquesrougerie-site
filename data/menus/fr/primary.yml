@@ -13,10 +13,6 @@ items:
   target: ''
   kind: blank
   children: []
-- title: Fondation
-  target: "/la-fondation/"
-  kind: page
-  children: []
 - title: La Fondation
   target: "/la-fondation/"
   kind: page
