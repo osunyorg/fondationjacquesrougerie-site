@@ -8,3 +8,5 @@ params:
     footer: "/assets/images/logo-white.svg"
   breadcrumb:
     position: after-hero
+  summary:
+    position: hero
