@@ -1,11 +1,11 @@
 ---
 title: Menu principal
 items:
-- title: Mer
+- title: Espace
   target: ''
   kind: blank
   children: []
-- title: Espace
+- title: Mer
   target: ''
   kind: blank
   children: []
