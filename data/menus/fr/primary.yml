@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Espace
-  target: ''
-  kind: blank
+  target: "/fr/espace/"
+  kind: page
   children: []
 - title: Mer
   target: "/fr/mer/"
