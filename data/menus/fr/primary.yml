@@ -6,8 +6,8 @@ items:
   kind: blank
   children: []
 - title: Mer
-  target: ''
-  kind: blank
+  target: "/fr/mer/"
+  kind: page
   children: []
 - title: Climat
   target: "/fr/climat/"
