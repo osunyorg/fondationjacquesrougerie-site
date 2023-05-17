@@ -9,6 +9,10 @@ items:
   target: ''
   kind: blank
   children: []
+- title: Climat
+  target: "/fr/climat/"
+  kind: page
+  children: []
 - title: Art
   target: ''
   kind: blank
@@ -19,10 +23,6 @@ items:
   children: []
 - title: Actualités
   target: "/fr/actualites/"
-  kind: page
-  children: []
-- title: Climat
-  target: "/fr/climat/"
   kind: page
   children: []
 
