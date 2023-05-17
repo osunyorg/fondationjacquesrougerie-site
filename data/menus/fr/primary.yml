@@ -21,4 +21,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Climat
+  target: "/fr/climat/"
+  kind: page
+  children: []
 
