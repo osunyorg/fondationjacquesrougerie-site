@@ -16,14 +16,9 @@ header#document-header
 #navigation
     @include media-breakpoint-up(desktop)
         span, a
-            // color: white
             font-weight: bold
             text-transform: uppercase
             letter-spacing: px2rem(2)
-
-.page__home
-    .hero
-        margin-bottom: $spacing3
 
 .pages__section,
 .page__home
@@ -33,9 +28,8 @@ header#document-header
         &.hero--with-image
             @include media-breakpoint-up(desktop)
                 .content
-                    flex-direction: column
-                figure
-                    margin-top: $spacing4
+                    flex-direction: column-reverse
+                    padding-top: 0
                 figure, picture, img
                     display: block
                     width: 100% !important
