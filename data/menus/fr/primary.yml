@@ -14,11 +14,11 @@ items:
   kind: blank
   children: []
 - title: La Fondation
-  target: "/la-fondation/"
+  target: "/fr/la-fondation/"
   kind: page
   children: []
 - title: Actualités
-  target: "/actualites/"
+  target: "/fr/actualites/"
   kind: page
   children: []
 

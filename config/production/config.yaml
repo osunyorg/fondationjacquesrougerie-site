@@ -4,4 +4,4 @@ baseURL: https://fondationjacquesrougerie.netlify.app
 
 ## LANGUAGE
 defaultContentLanguage: fr
-defaultContentLanguageInSubdir: false
+defaultContentLanguageInSubdir: true
