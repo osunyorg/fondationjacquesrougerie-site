@@ -20,6 +20,21 @@ header#document-header
             text-transform: uppercase
             letter-spacing: px2rem(2)
 
+.page__home
+    .hero
+        .container
+            .content
+                h1, 
+                hgroup,
+                .lead
+                    text-align: center
+                @include media-breakpoint-up(desktop)
+                    .lead
+                        width: col(8)
+                        margin-left: auto
+                        margin-right: auto
+
+
 .pages__section,
 .page__home
     .hero
@@ -47,14 +62,11 @@ header#document-header
         .content
             justify-content: center
             h1, hgroup
-                text-align: center
                 z-index: 10
                 width: 100%
                 @include media-breakpoint-up(desktop)
                     .lead
                         width: col(8)
-                        margin-left: auto
-                        margin-right: auto
 
 footer#document-footer
     .footer-credit
