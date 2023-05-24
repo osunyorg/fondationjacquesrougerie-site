@@ -14,7 +14,7 @@ items:
   kind: url
   children: []
 - title: LinkedIn
-  target: ''
-  kind: blank
+  target: https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
+  kind: url
   children: []
 
