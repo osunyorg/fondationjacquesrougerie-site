@@ -10,8 +10,8 @@ items:
   kind: url
   children: []
 - title: Youtube
-  target: ''
-  kind: blank
+  target: https://www.youtube.com/@FondationJacquesRougerie/
+  kind: url
   children: []
 - title: Twitter
   target: ''
