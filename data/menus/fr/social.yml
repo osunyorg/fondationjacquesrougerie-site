@@ -2,8 +2,8 @@
 title: Liens sociaux
 items:
 - title: Instragram
-  target: ''
-  kind: blank
+  target: https://www.instagram.com/fondation_jacquesrougerie/
+  kind: url
   children: []
 - title: Facebook
   target: ''
