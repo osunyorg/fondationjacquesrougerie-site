@@ -5,12 +5,12 @@ items:
   target: "/fr/la-fondation/"
   kind: page
   children: []
-- title: Espace
-  target: "/fr/espace/"
-  kind: page
-  children: []
 - title: Mer
   target: "/fr/mer/"
+  kind: page
+  children: []
+- title: Espace
+  target: "/fr/espace/"
   kind: page
   children: []
 - title: Climat
