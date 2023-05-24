@@ -13,10 +13,6 @@ items:
   target: https://www.youtube.com/@FondationJacquesRougerie/
   kind: url
   children: []
-- title: Twitter
-  target: ''
-  kind: blank
-  children: []
 - title: LinkedIn
   target: ''
   kind: blank
