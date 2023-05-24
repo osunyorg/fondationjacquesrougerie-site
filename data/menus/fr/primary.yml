@@ -9,7 +9,7 @@ items:
   target: "/fr/mer/"
   kind: page
   children: []
-- title: Climat
+- title: Climat & montée des eaux
   target: "/fr/climat/"
   kind: page
   children: []
