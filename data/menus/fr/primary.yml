@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: La Fondation
+  target: "/fr/la-fondation/"
+  kind: page
+  children: []
 - title: Espace
   target: "/fr/espace/"
   kind: page
@@ -16,10 +20,6 @@ items:
 - title: Art
   target: ''
   kind: blank
-  children: []
-- title: La Fondation
-  target: "/fr/la-fondation/"
-  kind: page
   children: []
 - title: Actualités
   target: "/fr/actualites/"
