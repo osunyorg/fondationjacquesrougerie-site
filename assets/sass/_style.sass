@@ -30,7 +30,7 @@ header#document-header
                     text-align: center
                 @include media-breakpoint-up(desktop)
                     .lead
-                        width: col(8)
+                        width: 100%
                         margin-left: auto
                         margin-right: auto
 
@@ -67,6 +67,10 @@ header#document-header
                 @include media-breakpoint-up(desktop)
                     .lead
                         width: col(8)
+
+@include media-breakpoint-up(desktop)
+    .toc-title
+        display: none
 
 footer#document-footer
     .footer-credit
