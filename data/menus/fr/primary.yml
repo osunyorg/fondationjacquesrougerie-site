@@ -5,6 +5,10 @@ items:
   target: "/fr/la-fondation/"
   kind: page
   children: []
+- title: Concours
+  target: "/fr/concours/"
+  kind: page
+  children: []
 - title: Mer
   target: "/fr/mer/"
   kind: page
