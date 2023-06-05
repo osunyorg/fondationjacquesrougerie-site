@@ -6,9 +6,11 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    persons: /equipe/:slug/
 fr:
   title: Fondation Jacques Rougerie
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   permalinks:
+    persons: /equipe/:slug/
