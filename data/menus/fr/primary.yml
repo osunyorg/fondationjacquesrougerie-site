@@ -1,20 +1,20 @@
 ---
 title: Menu principal
 items:
-- title: La Fondation
-  target: "/fr/la-fondation/"
+- title: Fondation
+  target: "/fr/fondation/"
   kind: page
   children:
   - title: Jacques Rougerie, architecte visionnaire
-    target: "/fr/la-fondation/jacques-rougerie-architecte-visionnaire/"
+    target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/"
     kind: page
     children: []
   - title: L'Académie des beaux-arts - Institut de France
-    target: "/fr/la-fondation/lacademie-des-beaux-arts-institut-de-france/"
+    target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
     kind: page
     children: []
   - title: Gouvernance
-    target: "/fr/la-fondation/gouvernance/"
+    target: "/fr/fondation/gouvernance/"
     kind: page
     children: []
 - title: Concours
@@ -22,19 +22,19 @@ items:
   kind: page
   children:
   - title: Les grands prix d'architecture et d'innovation
-    target: "/fr/concours/les-grands-prix-darchitecture-et-dinnovation/"
+    target: "/fr/concours/prix-darchitecture-et-dinnovation/"
     kind: page
     children:
     - title: Espace
-      target: "/fr/concours/les-grands-prix-darchitecture-et-dinnovation/espace/"
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
       kind: page
       children: []
     - title: Mer
-      target: "/fr/concours/les-grands-prix-darchitecture-et-dinnovation/mer/"
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
       kind: page
       children: []
     - title: Climat & montée des eaux
-      target: "/fr/concours/les-grands-prix-darchitecture-et-dinnovation/climat/"
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/climat/"
       kind: page
       children: []
   - title: Prix de l’art de la mer et de l’espace
