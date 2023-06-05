@@ -41,6 +41,10 @@ items:
     target: "/fr/communautes/les-junior-ambassadeurs/"
     kind: page
     children: []
+  - title: Partenaires & mécènes
+    target: "/fr/communautes/partenaires-mecenes/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
