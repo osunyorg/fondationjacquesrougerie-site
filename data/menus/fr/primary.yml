@@ -13,6 +13,10 @@ items:
     target: "/fr/la-fondation/lacademie-des-beaux-arts-institut-de-france/"
     kind: page
     children: []
+  - title: Gouvernance
+    target: "/fr/la-fondation/gouvernance/"
+    kind: page
+    children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
@@ -50,7 +54,7 @@ items:
     kind: page
     children: []
   - title: Junior Ambassadeurs
-    target: "/fr/communautes/les-junior-ambassadeurs/"
+    target: "/fr/communautes/junior-ambassadeurs/"
     kind: page
     children: []
   - title: Partenaires & mécènes
