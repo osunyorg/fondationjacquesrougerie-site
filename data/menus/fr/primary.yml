@@ -37,6 +37,10 @@ items:
     target: "/fr/communautes/ambassadeurs/"
     kind: page
     children: []
+  - title: Junior Ambassadeurs
+    target: "/fr/communautes/les-junior-ambassadeurs/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
