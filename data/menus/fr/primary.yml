@@ -25,6 +25,10 @@ items:
     target: "/fr/concours/prix-de-lart-de-la-mer-et-de-lespace/"
     kind: page
     children: []
+  - title: Database
+    target: "/fr/concours/database/"
+    kind: page
+    children: []
 - title: Communautés
   target: "/fr/communautes/"
   kind: page
