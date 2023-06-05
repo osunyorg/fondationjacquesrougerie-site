@@ -21,6 +21,10 @@ items:
     target: "/fr/concours/les-grands-prix-darchitecture-et-dinnovation/"
     kind: page
     children: []
+  - title: Prix de l’art de la mer et de l’espace
+    target: "/fr/concours/prix-de-lart-de-la-mer-et-de-lespace/"
+    kind: page
+    children: []
 - title: Communautés
   target: "/fr/communautes/"
   kind: page
