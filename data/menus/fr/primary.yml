@@ -32,7 +32,11 @@ items:
 - title: Communautés
   target: "/fr/communautes/"
   kind: page
-  children: []
+  children:
+  - title: Ambassadeurs
+    target: "/fr/communautes/ambassadeurs/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
