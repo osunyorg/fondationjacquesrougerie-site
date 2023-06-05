@@ -9,21 +9,9 @@ items:
   target: "/fr/concours/"
   kind: page
   children: []
-- title: Mer
-  target: "/fr/mer/"
+- title: Communautés
+  target: "/fr/communautes/"
   kind: page
-  children: []
-- title: Climat & montée des eaux
-  target: "/fr/climat/"
-  kind: page
-  children: []
-- title: Espace
-  target: "/fr/espace/"
-  kind: page
-  children: []
-- title: Art
-  target: ''
-  kind: blank
   children: []
 - title: Actualités
   target: "/fr/actualites/"
