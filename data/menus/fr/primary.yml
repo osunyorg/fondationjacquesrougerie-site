@@ -29,7 +29,7 @@ items:
       target: "/fr/fondation/jacques-rougerie-l-homme/des-travaux-precurseurs/"
       kind: page
       children: []
-  - title: Communautés
+  - title: Les communautés
     target: "/fr/fondation/communautes/"
     kind: page
     children:
