@@ -20,7 +20,11 @@ items:
   - title: Jacques Rougerie, l'homme
     target: "/fr/fondation/jacques-rougerie-l-homme/"
     kind: page
-    children: []
+    children:
+    - title: Jacques Rougerie, architecte visionnaire
+      target: "/fr/fondation/jacques-rougerie-l-homme/jacques-rougerie-architecte-visionnaire/"
+      kind: page
+      children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
