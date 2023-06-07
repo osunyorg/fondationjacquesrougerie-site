@@ -8,13 +8,13 @@ items:
   - title: La Fondation Jacques Rougerie
     target: "/fr/fondation/la-fondation-jacques-rougerie/"
     kind: page
-    children: []
+    children:
+    - title: Gouvernance
+      target: "/fr/fondation/la-fondation-jacques-rougerie/gouvernance/"
+      kind: page
+      children: []
   - title: Jacques Rougerie, l'homme
     target: "/fr/fondation/jacques-rougerie-l-homme/"
-    kind: page
-    children: []
-  - title: Gouvernance
-    target: "/fr/fondation/la-fondation-jacques-rougerie/gouvernance/"
     kind: page
     children: []
 - title: Concours
