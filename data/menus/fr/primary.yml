@@ -9,8 +9,8 @@ items:
     target: "/fr/fondation/la-fondation-jacques-rougerie/"
     kind: page
     children: []
-  - title: L'Académie des beaux-arts - Institut de France
-    target: "/fr/fondation/la-fondation-jacques-rougerie/lacademie-des-beaux-arts-institut-de-france/"
+  - title: Jacques Rougerie, l'homme
+    target: "/fr/fondation/jacques-rougerie-l-homme/"
     kind: page
     children: []
   - title: Gouvernance
