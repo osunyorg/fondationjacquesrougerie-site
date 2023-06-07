@@ -2,19 +2,19 @@
 title: Menu principal
 items:
 - title: Fondation
-  target: "/fr/fondation/"
+  target: "/fr/fondation/la-fondation-jacques-rougerie/"
   kind: page
   children:
-  - title: Jacques Rougerie, architecte visionnaire
-    target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/"
+  - title: La Fondation Jacques Rougerie
+    target: "/fr/fondation/la-fondation-jacques-rougerie/"
     kind: page
     children: []
   - title: L'Académie des beaux-arts - Institut de France
-    target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
+    target: "/fr/fondation/la-fondation-jacques-rougerie/lacademie-des-beaux-arts-institut-de-france/"
     kind: page
     children: []
   - title: Gouvernance
-    target: "/fr/fondation/gouvernance/"
+    target: "/fr/fondation/la-fondation-jacques-rougerie/gouvernance/"
     kind: page
     children: []
 - title: Concours
