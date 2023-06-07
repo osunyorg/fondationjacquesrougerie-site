@@ -9,6 +9,10 @@ items:
     target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
     kind: page
     children:
+    - title: La Fondation Jacques Rougerie
+      target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
+      kind: page
+      children: []
     - title: L'Académie des beaux-arts
       target: "/fr/fondation/la-fondation/lacademie-des-beaux-arts/"
       kind: page
@@ -45,10 +49,6 @@ items:
       target: "/fr/fondation/communautes/partenaires-mecenes/"
       kind: page
       children: []
-  - title: La Fondation Jacques Rougerie
-    target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
-    kind: page
-    children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
