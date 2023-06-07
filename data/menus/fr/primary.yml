@@ -2,19 +2,19 @@
 title: Menu principal
 items:
 - title: Fondation
-  target: "/fr/fondation/la-fondation-jacques-rougerie/"
+  target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
   kind: page
   children:
   - title: La Fondation Jacques Rougerie
-    target: "/fr/fondation/la-fondation-jacques-rougerie/"
+    target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
     kind: page
     children:
     - title: L'Académie des beaux-arts
-      target: "/fr/fondation/la-fondation-jacques-rougerie/lacademie-des-beaux-arts/"
+      target: "/fr/fondation/la-fondation/lacademie-des-beaux-arts/"
       kind: page
       children: []
     - title: Gouvernance
-      target: "/fr/fondation/la-fondation-jacques-rougerie/gouvernance/"
+      target: "/fr/fondation/la-fondation/gouvernance/"
       kind: page
       children: []
   - title: Jacques Rougerie, l'homme
@@ -45,6 +45,10 @@ items:
       target: "/fr/fondation/communautes/partenaires-mecenes/"
       kind: page
       children: []
+  - title: La Fondation Jacques Rougerie
+    target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
+    kind: page
+    children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
