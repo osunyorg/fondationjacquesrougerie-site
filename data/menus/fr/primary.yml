@@ -25,6 +25,10 @@ items:
       target: "/fr/fondation/jacques-rougerie-l-homme/jacques-rougerie-architecte-visionnaire/"
       kind: page
       children: []
+    - title: Des travaux précurseurs
+      target: "/fr/fondation/jacques-rougerie-l-homme/des-travaux-precurseurs/"
+      kind: page
+      children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
