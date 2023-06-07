@@ -29,6 +29,22 @@ items:
       target: "/fr/fondation/jacques-rougerie-l-homme/des-travaux-precurseurs/"
       kind: page
       children: []
+  - title: Communautés
+    target: "/fr/fondation/communautes/"
+    kind: page
+    children:
+    - title: Ambassadeurs
+      target: "/fr/fondation/communautes/ambassadeurs/"
+      kind: page
+      children: []
+    - title: Junior Ambassadeurs
+      target: "/fr/fondation/communautes/junior-ambassadeurs/"
+      kind: page
+      children: []
+    - title: Partenaires & mécènes
+      target: "/fr/fondation/communautes/partenaires-mecenes/"
+      kind: page
+      children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
@@ -55,22 +71,6 @@ items:
     children: []
   - title: Database
     target: "/fr/concours/database/"
-    kind: page
-    children: []
-- title: Communautés
-  target: "/fr/communautes/"
-  kind: page
-  children:
-  - title: Ambassadeurs
-    target: "/fr/communautes/ambassadeurs/"
-    kind: page
-    children: []
-  - title: Junior Ambassadeurs
-    target: "/fr/communautes/junior-ambassadeurs/"
-    kind: page
-    children: []
-  - title: Partenaires & mécènes
-    target: "/fr/communautes/partenaires-mecenes/"
     kind: page
     children: []
 - title: Actualités
