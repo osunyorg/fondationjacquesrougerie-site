@@ -5,8 +5,8 @@ items:
   target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
   kind: page
   children:
-  - title: La Fondation Jacques Rougerie
-    target: "/fr/fondation/la-fondation/la-fondation-jacques-rougerie/"
+  - title: La fondation
+    target: "/fr/fondation/la-fondation/"
     kind: page
     children:
     - title: La Fondation Jacques Rougerie
