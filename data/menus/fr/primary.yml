@@ -21,16 +21,16 @@ items:
       target: "/fr/fondation/la-fondation/gouvernance/"
       kind: page
       children: []
-  - title: Jacques Rougerie, l'homme
-    target: "/fr/fondation/jacques-rougerie-l-homme/"
+  - title: Jacques Rougerie, architecte visionnaire
+    target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/"
     kind: page
     children:
     - title: Un architecte visionnaire
-      target: "/fr/fondation/jacques-rougerie-l-homme/jacques-rougerie-architecte-visionnaire/"
+      target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/explorateur-du-futur/"
       kind: page
       children: []
     - title: Des travaux précurseurs
-      target: "/fr/fondation/jacques-rougerie-l-homme/des-travaux-precurseurs/"
+      target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/creations-emblematiques/"
       kind: page
       children: []
   - title: Les communautés
@@ -66,11 +66,11 @@ items:
       kind: page
       children: []
     - title: Climat & montée des eaux
-      target: "/fr/concours/prix-darchitecture-et-dinnovation/climat/"
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/"
       kind: page
       children: []
   - title: Prix de l’art de la mer et de l’espace
-    target: "/fr/concours/prix-de-lart-de-la-mer-et-de-lespace/"
+    target: "/fr/concours/prix-de-lart/"
     kind: page
     children: []
   - title: Database
