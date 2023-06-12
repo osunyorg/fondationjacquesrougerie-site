@@ -25,7 +25,7 @@ items:
     target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/"
     kind: page
     children:
-    - title: Un architecte visionnaire
+    - title: Explorateur du futur
       target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/explorateur-du-futur/"
       kind: page
       children: []
