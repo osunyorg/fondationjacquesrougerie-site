@@ -5,6 +5,10 @@ items:
   target: "/fr/fondation/"
   kind: page
   children:
+  - title: La Fondation
+    target: "/fr/fondation/la-fondation/"
+    kind: page
+    children: []
   - title: Jacques Rougerie, architecte visionnaire
     target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/"
     kind: page
@@ -63,10 +67,6 @@ items:
     children: []
 - title: Actualités
   target: "/fr/actualites/"
-  kind: page
-  children: []
-- title: La Fondation
-  target: "/fr/fondation/la-fondation/"
   kind: page
   children: []
 
