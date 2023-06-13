@@ -33,10 +33,6 @@ items:
       target: "/fr/fondation/partenaires-mecenes/"
       kind: page
       children: []
-- title: L'Académie des beaux-arts - Institut de France
-  target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
-  kind: page
-  children: []
 - title: Gouvernance
   target: "/fr/fondation/gouvernance/"
   kind: page
