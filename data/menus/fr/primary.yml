@@ -33,10 +33,6 @@ items:
       target: "/fr/fondation/partenaires-mecenes/"
       kind: page
       children: []
-- title: Gouvernance
-  target: "/fr/fondation/gouvernance/"
-  kind: page
-  children: []
 - title: Partenaires & mécènes
   target: "/fr/fondation/partenaires-mecenes/"
   kind: page
