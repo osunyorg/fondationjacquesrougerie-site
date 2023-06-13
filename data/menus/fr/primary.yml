@@ -2,7 +2,7 @@
 title: Menu principal
 items:
 - title: Fondation
-  target: "/fr/fondation/presentation-de-la-fondation/"
+  target: "/fr/fondation/"
   kind: page
   children:
   - title: La Fondation
