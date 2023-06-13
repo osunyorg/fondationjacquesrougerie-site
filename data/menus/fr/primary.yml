@@ -33,6 +33,10 @@ items:
       target: "/fr/fondation/communautes/partenaires-mecenes/"
       kind: page
       children: []
+- title: La Fondation
+  target: "/fr/fondation/"
+  kind: page
+  children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
@@ -63,10 +67,6 @@ items:
     children: []
 - title: Actualités
   target: "/fr/actualites/"
-  kind: page
-  children: []
-- title: La Fondation
-  target: "/fr/fondation/"
   kind: page
   children: []
 - title: L'Académie des beaux-arts - Institut de France
