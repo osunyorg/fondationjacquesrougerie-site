@@ -73,4 +73,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Partenaires & mécènes
+  target: "/fr/fondation/la-fondation/partenaires-mecenes/"
+  kind: page
+  children: []
 
