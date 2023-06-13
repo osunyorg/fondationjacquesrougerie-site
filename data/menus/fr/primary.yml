@@ -8,7 +8,11 @@ items:
   - title: La Fondation
     target: "/fr/fondation/la-fondation/"
     kind: page
-    children: []
+    children:
+    - title: Partenaires & mécènes
+      target: "/fr/fondation/partenaires-mecenes/"
+      kind: page
+      children: []
   - title: Jacques Rougerie, architecte visionnaire
     target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/"
     kind: page
@@ -31,10 +35,6 @@ items:
       children: []
     - title: Junior Ambassadeurs
       target: "/fr/fondation/les-ambassadeurs/junior-ambassadeurs/"
-      kind: page
-      children: []
-    - title: Partenaires & mécènes
-      target: "/fr/fondation/partenaires-mecenes/"
       kind: page
       children: []
 - title: Concours
