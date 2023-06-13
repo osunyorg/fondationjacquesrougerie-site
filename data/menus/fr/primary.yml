@@ -77,4 +77,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Gouvernance
+  target: "/fr/fondation/la-fondation/gouvernance/"
+  kind: page
+  children: []
 
