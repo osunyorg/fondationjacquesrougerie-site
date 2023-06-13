@@ -18,27 +18,27 @@ items:
       kind: page
       children: []
   - title: Les communautés
-    target: "/fr/fondation/communautes/"
+    target: "/fr/fondation/les-ambassadeurs/"
     kind: page
     children:
     - title: Ambassadeurs
-      target: "/fr/fondation/communautes/ambassadeurs/"
+      target: "/fr/fondation/les-ambassadeurs/ambassadeurs/"
       kind: page
       children: []
     - title: Junior Ambassadeurs
-      target: "/fr/fondation/communautes/junior-ambassadeurs/"
+      target: "/fr/fondation/les-ambassadeurs/junior-ambassadeurs/"
       kind: page
       children: []
     - title: Partenaires & mécènes
-      target: "/fr/fondation/communautes/partenaires-mecenes/"
+      target: "/fr/fondation/la-fondation/partenaires-mecenes/"
       kind: page
       children: []
 - title: La Fondation
-  target: "/fr/fondation/"
+  target: "/fr/fondation/la-fondation/"
   kind: page
   children: []
 - title: L'Académie des beaux-arts - Institut de France
-  target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
+  target: "/fr/fondation/la-fondation/lacademie-des-beaux-arts-institut-de-france/"
   kind: page
   children: []
 - title: Concours
