@@ -33,10 +33,6 @@ items:
       target: "/fr/fondation/partenaires-mecenes/"
       kind: page
       children: []
-- title: Partenaires & mécènes
-  target: "/fr/fondation/partenaires-mecenes/"
-  kind: page
-  children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
