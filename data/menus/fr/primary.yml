@@ -6,7 +6,7 @@ items:
   kind: page
   children:
   - title: La Fondation
-    target: "/fr/fondation/presentation-de-la-fondation/"
+    target: "/fr/fondation/presentation-de-la-fondation/la-fondation-jacques-rougerie/"
     kind: page
     children:
     - title: La Fondation Jacques Rougerie - Académie des beaux-arts
