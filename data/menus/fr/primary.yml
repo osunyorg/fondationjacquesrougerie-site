@@ -65,4 +65,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: La Fondation
+  target: "/fr/fondation/la-fondation/"
+  kind: page
+  children: []
 
