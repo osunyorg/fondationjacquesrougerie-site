@@ -5,18 +5,6 @@ items:
   target: "/fr/fondation/"
   kind: page
   children:
-  - title: La Fondation
-    target: "/fr/fondation/presentation-de-la-fondation/la-fondation-jacques-rougerie/"
-    kind: page
-    children:
-    - title: La Fondation Jacques Rougerie - Académie des beaux-arts
-      target: "/fr/fondation/presentation-de-la-fondation/la-fondation-jacques-rougerie/"
-      kind: page
-      children: []
-    - title: Gouvernance
-      target: "/fr/fondation/presentation-de-la-fondation/gouvernance/"
-      kind: page
-      children: []
   - title: Jacques Rougerie, architecte visionnaire
     target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/"
     kind: page
