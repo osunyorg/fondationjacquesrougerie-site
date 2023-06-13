@@ -37,6 +37,10 @@ items:
   target: "/fr/fondation/"
   kind: page
   children: []
+- title: L'Académie des beaux-arts - Institut de France
+  target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
+  kind: page
+  children: []
 - title: Concours
   target: "/fr/concours/"
   kind: page
@@ -67,10 +71,6 @@ items:
     children: []
 - title: Actualités
   target: "/fr/actualites/"
-  kind: page
-  children: []
-- title: L'Académie des beaux-arts - Institut de France
-  target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
   kind: page
   children: []
 
