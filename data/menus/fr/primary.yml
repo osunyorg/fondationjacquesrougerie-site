@@ -68,13 +68,13 @@ items:
   - title: Prix de l’art
     target: "/fr/concours/prix-de-lart/"
     kind: page
-    children: []
+    children:
+    - title: Art dans la mer
+      target: "/fr/concours/prix-de-lart/art-dans-la-mer/"
+      kind: page
+      children: []
   - title: Database
     target: "/fr/concours/database/"
-    kind: page
-    children: []
-  - title: Art dans la mer
-    target: "/fr/concours/prix-de-lart/art-dans-la-mer/"
     kind: page
     children: []
 - title: Actualités
