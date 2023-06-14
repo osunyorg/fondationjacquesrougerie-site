@@ -34,15 +34,15 @@ items:
       kind: page
       children: []
   - title: Les communautés
-    target: "/fr/fondation/les-ambassadeurs/"
+    target: "/fr/fondation/les-communautes/"
     kind: page
     children:
     - title: Ambassadeurs
-      target: "/fr/fondation/les-ambassadeurs/ambassadeurs/"
+      target: "/fr/fondation/les-communautes/ambassadeurs/"
       kind: page
       children: []
     - title: Junior Ambassadeurs
-      target: "/fr/fondation/les-ambassadeurs/junior-ambassadeurs/"
+      target: "/fr/fondation/les-communautes/junior-ambassadeurs/"
       kind: page
       children: []
 - title: Concours
@@ -53,16 +53,16 @@ items:
     target: "/fr/concours/prix-darchitecture-et-dinnovation/"
     kind: page
     children:
-    - title: Espace
-      target: "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
-      kind: page
-      children: []
     - title: Mer
       target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
       kind: page
       children: []
     - title: Climat & montée des eaux
       target: "/fr/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/"
+      kind: page
+      children: []
+    - title: Espace
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
       kind: page
       children: []
   - title: Prix de l’art de la mer et de l’espace
