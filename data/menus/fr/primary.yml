@@ -81,4 +81,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Art dans l'espace
+  target: "/fr/concours/prix-de-lart/art-dans-l-espace/"
+  kind: page
+  children: []
 
