@@ -7,6 +7,7 @@ en:
   languageName: English
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
+    organizations: /organisations/:slug/
     persons: /equipe/:slug/
     authors: /equipe/:slug/actualites/
 fr:
@@ -16,5 +17,6 @@ fr:
   languageName: Français
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
+    organizations: /organisations/:slug/
     persons: /equipe/:slug/
     authors: /equipe/:slug/actualites/
