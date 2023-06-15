@@ -70,24 +70,9 @@ header#document-header
                         width: col(8)
 
 @include media-breakpoint-up(desktop)
+    .container:first-of-type
+        justify-content: center !important
     .toc-title
         display: none
-
-footer#document-footer
-    .footer-credit
-        font-size: px2rem(14)
-    @include media-breakpoint-up(desktop)
-        .footer-i18n ul li
-            display: inline-block
-            a
-                padding: 0 $spacing0
-        .container
-            justify-content: center
-        .footer-legals,
-        .footer-social
-            text-align: center
-            ul
-                li
-                    display: inline-block
-                    a
-                        padding: $spacing0
+    .container
+        align-items: end
