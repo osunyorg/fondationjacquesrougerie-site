@@ -6,6 +6,7 @@ en:
   languageCode: en
   languageName: English
   permalinks:
+    categories: /actualites/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
@@ -16,6 +17,7 @@ fr:
   languageCode: fr
   languageName: Français
   permalinks:
+    categories: /actualites/:slug/
     posts: /actualites/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
