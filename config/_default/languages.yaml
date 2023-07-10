@@ -6,11 +6,11 @@ en:
   languageCode: en
   languageName: English
   permalinks:
-    categories: /actualites/:slug/
-    posts: /actualites/:year-:month-:day-:slug/
+    categories: /news-and-events/:slug/
+    posts: /news-and-events/:year-:month-:day-:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
-    authors: /equipe/:slug/actualites/
+    authors: /equipe/:slug/news-and-events/
 fr:
   title: Fondation Jacques Rougerie
   contentDir: content/fr
