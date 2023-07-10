@@ -46,7 +46,7 @@ items:
       kind: page
       children: []
 - title: Comptetitions
-  target: "/en/competition/"
+  target: "/en/competitions/"
   kind: page
   children:
   - title: Prix d'architecture et d'innovation

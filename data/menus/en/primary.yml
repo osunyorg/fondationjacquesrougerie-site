@@ -46,39 +46,39 @@ items:
       kind: page
       children: []
 - title: Competition
-  target: "/en/competition/"
+  target: "/en/competitions/"
   kind: page
   children:
   - title: Prix d'architecture et d'innovation
-    target: "/en/competition/prix-darchitecture-et-dinnovation/"
+    target: "/en/competitions/prix-darchitecture-et-dinnovation/"
     kind: page
     children:
     - title: Mer
-      target: "/en/competition/prix-darchitecture-et-dinnovation/sea/"
+      target: "/en/competitions/prix-darchitecture-et-dinnovation/sea/"
       kind: page
       children: []
     - title: Climat & montée des eaux
-      target: "/en/competition/prix-darchitecture-et-dinnovation/climate-rising-water/"
+      target: "/en/competitions/prix-darchitecture-et-dinnovation/climate-rising-water/"
       kind: page
       children: []
     - title: Espace
-      target: "/en/competition/prix-darchitecture-et-dinnovation/space/"
+      target: "/en/competitions/prix-darchitecture-et-dinnovation/space/"
       kind: page
       children: []
   - title: Prix de l’art
-    target: "/en/competition/prix-de-lart-de-la-mer-et-de-lespace/"
+    target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/"
     kind: page
     children:
     - title: Art dans la mer
-      target: "/en/competition/prix-de-lart-de-la-mer-et-de-lespace/art-in-the-sea/"
+      target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/art-in-the-sea/"
       kind: page
       children: []
     - title: Art dans l'espace
-      target: "/en/competition/prix-de-lart-de-la-mer-et-de-lespace/art-in-space/"
+      target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/art-in-space/"
       kind: page
       children: []
   - title: Database
-    target: "/en/competition/database/"
+    target: "/en/competitions/database/"
     kind: page
     children: []
 - title: Actualités
