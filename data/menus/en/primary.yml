@@ -1,0 +1,88 @@
+---
+title: Menu principal
+items:
+- title: Foundation
+  target: "/en/foundation/"
+  kind: page
+  children:
+  - title: The Foundation
+    target: "/en/foundation/the-foundation/"
+    kind: page
+    children:
+    - title: L'Académie des beaux-arts - Institut de France
+      target: "/en/foundation/the-academie-des-beaux-arts-institut-de-france/"
+      kind: page
+      children: []
+    - title: Gouvernance
+      target: "/en/foundation/governance/"
+      kind: page
+      children: []
+    - title: Partenaires & mécènes
+      target: "/en/foundation/partenaires-mecenes/"
+      kind: page
+      children: []
+  - title: Communities
+    target: "/en/foundation/les-communautes/"
+    kind: page
+    children:
+    - title: Ambassadeurs
+      target: "/en/foundation/les-communautes/ambassadors/"
+      kind: page
+      children: []
+    - title: Junior Ambassadeurs
+      target: "/en/foundation/les-communautes/junior-ambassadors/"
+      kind: page
+      children: []
+  - title: Jacques Rougerie
+    target: "/en/foundation/jacques-rougerie-architecte-visionnaire-1/"
+    kind: page
+    children:
+    - title: Explorateur du futur
+      target: "/en/foundation/jacques-rougerie-architecte-visionnaire-1/future-explorer/"
+      kind: page
+      children: []
+    - title: Créations emblématiques
+      target: "/en/foundation/jacques-rougerie-architecte-visionnaire-1/iconic-creations/"
+      kind: page
+      children: []
+- title: Competition
+  target: "/en/competition/"
+  kind: page
+  children:
+  - title: Prix d'architecture et d'innovation
+    target: "/en/competition/prix-darchitecture-et-dinnovation/"
+    kind: page
+    children:
+    - title: Mer
+      target: "/en/competition/prix-darchitecture-et-dinnovation/sea/"
+      kind: page
+      children: []
+    - title: Climat & montée des eaux
+      target: "/en/competition/prix-darchitecture-et-dinnovation/climate-rising-water/"
+      kind: page
+      children: []
+    - title: Espace
+      target: "/en/competition/prix-darchitecture-et-dinnovation/space/"
+      kind: page
+      children: []
+  - title: Prix de l’art
+    target: "/en/competition/prix-de-lart-de-la-mer-et-de-lespace/"
+    kind: page
+    children:
+    - title: Art dans la mer
+      target: "/en/competition/prix-de-lart-de-la-mer-et-de-lespace/art-in-the-sea/"
+      kind: page
+      children: []
+    - title: Art dans l'espace
+      target: "/en/competition/prix-de-lart-de-la-mer-et-de-lespace/art-in-space/"
+      kind: page
+      children: []
+  - title: Database
+    target: "/en/competition/database/"
+    kind: page
+    children: []
+- title: Actualités
+  target: "/en/news-and-events/"
+  kind: page
+  children: []
+

@@ -1,8 +1,8 @@
 ---
 title: Menu principal
 items:
-- title: Fondation
-  target: "/fr/fondation/"
+- title: Foundation
+  target: "/en/foundation/"
   kind: page
   children:
   - title: La Fondation
@@ -45,8 +45,8 @@ items:
       target: "/fr/fondation/les-communautes/junior-ambassadeurs/"
       kind: page
       children: []
-- title: Concours
-  target: "/fr/concours/"
+- title: Comptetitions
+  target: "/en/competition/"
   kind: page
   children:
   - title: Prix d'architecture et d'innovation
