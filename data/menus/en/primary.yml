@@ -21,18 +21,6 @@ items:
       target: "/en/foundation/partenaires-mecenes/"
       kind: page
       children: []
-  - title: Communities
-    target: "/en/foundation/les-communautes/"
-    kind: page
-    children:
-    - title: Ambassadeurs
-      target: "/en/foundation/les-communautes/ambassadors/"
-      kind: page
-      children: []
-    - title: Junior Ambassadeurs
-      target: "/en/foundation/les-communautes/junior-ambassadors/"
-      kind: page
-      children: []
   - title: Jacques Rougerie
     target: "/en/foundation/jacques-rougerie-architecte-visionnaire-1/"
     kind: page
@@ -43,6 +31,18 @@ items:
       children: []
     - title: Créations emblématiques
       target: "/en/foundation/jacques-rougerie-architecte-visionnaire-1/iconic-creations/"
+      kind: page
+      children: []
+  - title: Communities
+    target: "/en/foundation/les-communautes/"
+    kind: page
+    children:
+    - title: Ambassadeurs
+      target: "/en/foundation/les-communautes/ambassadors/"
+      kind: page
+      children: []
+    - title: Junior Ambassadeurs
+      target: "/en/foundation/les-communautes/junior-ambassadors/"
       kind: page
       children: []
 - title: Competition
