@@ -5,7 +5,7 @@ items:
   target: "/en/legal-information/"
   kind: page
   children: []
-- title: Politique de confidentialité
+- title: Privacy policy
   target: "/en/privacy-policy/"
   kind: page
   children: []
