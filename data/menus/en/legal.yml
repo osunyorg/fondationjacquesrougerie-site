@@ -13,7 +13,7 @@ items:
   target: "/en/accessibility/"
   kind: page
   children: []
-- title: Plan du site
+- title: Site map
   target: "/en/site-map/"
   kind: page
   children: []
