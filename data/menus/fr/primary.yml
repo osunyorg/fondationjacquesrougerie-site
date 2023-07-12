@@ -22,15 +22,15 @@ items:
       kind: page
       children: []
   - title: Jacques Rougerie
-    target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/"
+    target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/"
     kind: page
     children:
     - title: Explorateur du futur
-      target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/explorateur-du-futur/"
+      target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/"
       kind: page
       children: []
     - title: Créations emblématiques
-      target: "/fr/fondation/jacques-rougerie-architecte-visionnaire-1/creations-emblematiques/"
+      target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/"
       kind: page
       children: []
   - title: Les communautés
