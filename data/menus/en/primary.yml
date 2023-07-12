@@ -65,6 +65,18 @@ items:
       target: "/en/competitions/prix-darchitecture-et-dinnovation/space/"
       kind: page
       children: []
+  - title: Art Awards
+    target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/"
+    kind: page
+    children:
+    - title: Art in the sea
+      target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/art-in-the-sea/"
+      kind: page
+      children: []
+    - title: Art in space
+      target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/art-in-space/"
+      kind: page
+      children: []
   - title: Database
     target: "/en/competitions/database/"
     kind: page
@@ -73,16 +85,4 @@ items:
   target: "/en/news-and-events/"
   kind: page
   children: []
-- title: Art Awards
-  target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/"
-  kind: page
-  children:
-  - title: Art in the sea
-    target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/art-in-the-sea/"
-    kind: page
-    children: []
-  - title: Art in space
-    target: "/en/competitions/prix-de-lart-de-la-mer-et-de-lespace/art-in-space/"
-    kind: page
-    children: []
 
