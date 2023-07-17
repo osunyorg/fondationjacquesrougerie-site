@@ -1,16 +1,20 @@
 html
     @include media-breakpoint-up(desktop)
-        font-size: Min(Max(1.1vw, 14px), 18px)
+        font-size: Min(Max(1.1vw, 13px), 16px)
 
-header#document-header
-    @include media-breakpoint-up(desktop)
-        .container
-            flex-direction: column
-            .logo
-                margin: 10px 0 30px
+body:not(.is-scrolling-down)
+    header#document-header
+        @include media-breakpoint-up(desktop)
+            &:not(.is-sticky)
+                .container
+                    flex-direction: column
+                    .logo
+                        margin: 10px 0 30px
+
 footer#document-footer
     > .container:first-child
         padding-bottom: 0
+
 .has-menu-opened
     header#document-header
         nav
@@ -27,6 +31,7 @@ footer#document-footer
             font-weight: normal
             text-transform: none
             letter-spacing: 0
+
 .page__home
     .hero
         .container
@@ -40,7 +45,6 @@ footer#document-footer
                         width: 100%
                         margin-left: auto
                         margin-right: auto
-
 
 .pages__section,
 .page__home
@@ -73,10 +77,10 @@ footer#document-footer
             .container .content hgroup .lead
                 width: 100%
 
-@include media-breakpoint-up(desktop)
-    .container:first-of-type
-        justify-content: center !important
-    .toc-title
-        display: none
-    .container
-        align-items: end
+// @include media-breakpoint-up(desktop)
+//     .container:first-of-type
+//         justify-content: center !important
+//     .toc-title
+//         display: none
+//     .container
+//         align-items: end
