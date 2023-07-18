@@ -50,19 +50,19 @@ items:
   kind: page
   children:
   - title: Architecture and Innovation Awards
-    target: "/en/competitions/prix-darchitecture-et-dinnovation/"
+    target: "/en/competitions/architecture-and-innovation-awards/"
     kind: page
     children:
     - title: Sea
-      target: "/en/competitions/prix-darchitecture-et-dinnovation/sea/"
+      target: "/en/competitions/architecture-and-innovation-awards/sea/"
       kind: page
       children: []
     - title: Climate & Rising waters
-      target: "/en/competitions/prix-darchitecture-et-dinnovation/climate-rising-water/"
+      target: "/en/competitions/architecture-and-innovation-awards/climate-rising-water/"
       kind: page
       children: []
     - title: Space
-      target: "/en/competitions/prix-darchitecture-et-dinnovation/space/"
+      target: "/en/competitions/architecture-and-innovation-awards/space/"
       kind: page
       children: []
   - title: Art Awards
