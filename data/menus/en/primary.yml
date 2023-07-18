@@ -34,15 +34,15 @@ items:
       kind: page
       children: []
   - title: Communities
-    target: "/en/foundation/les-communautes/"
+    target: "/en/foundation/communities/"
     kind: page
     children:
     - title: Ambassadors
-      target: "/en/foundation/les-communautes/ambassadors/"
+      target: "/en/foundation/communities/ambassadors/"
       kind: page
       children: []
     - title: Junior Ambassadors
-      target: "/en/foundation/les-communautes/junior-ambassadors/"
+      target: "/en/foundation/communities/junior-ambassadors/"
       kind: page
       children: []
 - title: Competitions
