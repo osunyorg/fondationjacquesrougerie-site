@@ -22,15 +22,15 @@ items:
       kind: page
       children: []
   - title: Jacques Rougerie
-    target: "/en/foundation/jacques-rougerie-architecte-visionnaire-/"
+    target: "/en/foundation/jacques-rougerie/"
     kind: page
     children:
     - title: Future explorer
-      target: "/en/foundation/jacques-rougerie-architecte-visionnaire-/future-explorer/"
+      target: "/en/foundation/jacques-rougerie/future-explorer/"
       kind: page
       children: []
     - title: Iconic creations
-      target: "/en/foundation/jacques-rougerie-architecte-visionnaire-/iconic-creations/"
+      target: "/en/foundation/jacques-rougerie/iconic-creations/"
       kind: page
       children: []
   - title: Communities
