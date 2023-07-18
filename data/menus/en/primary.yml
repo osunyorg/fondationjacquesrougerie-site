@@ -18,7 +18,7 @@ items:
       kind: page
       children: []
     - title: Partners & sponsors
-      target: "/en/foundation/partenaires-mecenes/"
+      target: "/en/foundation/partners-sponsors/"
       kind: page
       children: []
   - title: Jacques Rougerie
