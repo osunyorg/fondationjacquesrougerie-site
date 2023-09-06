@@ -1,0 +1,8 @@
+ErrorDocument 404 /404.html
+RewriteEngine On
+
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [R,L]
+
+RewriteCond %{HTTP_HOST} ^fondation\-jacques\-rougerie\.com [NC]
+RewriteRule ^(.*)$ https://www.fondation-jacques-rougerie.com/$1 [L,R=301]
