@@ -5,3 +5,4 @@ external_domains:
   - "*.osuny.org"
   - "osuny.s3.fr-par.scw.cloud"
   - "www.youtube.com"
+  - "plausible.io"
