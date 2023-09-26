@@ -21,8 +21,10 @@ RedirectPermanent /competition /en/competitions/
   ExpiresByType image/png "access plus 1 year"
   ExpiresByType image/gif "access plus 1 year"
   ExpiresByType image/jpeg "access plus 1 year"
-  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType image/svg "access plus 1 year"
   ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType application/x-javascript "access plus 1 year"
 
   ExpiresByType font/woff  "access plus 1 year"
   ExpiresByType application/font-woff  "access plus 1 year"
