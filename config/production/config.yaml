@@ -5,3 +5,9 @@ baseURL: https://www.fondation-jacques-rougerie.com
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
+
+deployment:
+  matchers:
+    - pattern: "^.+\\.(woff2|woff|svg|ttf|eot)$"
+      cacheControl: "max-age=31536000, no-transform, public"
+      gzip: true
