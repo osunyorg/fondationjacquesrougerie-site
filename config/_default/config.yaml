@@ -11,6 +11,8 @@ params:
     position: after-hero
   summary:
     position: hero
+  search:
+    active: true
   image_sizes:
     design_system:
       lightbox:
