@@ -5,6 +5,16 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  params:
+    social:
+      linkedin: >-
+        https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
+      youtube: >-
+        https://www.youtube.com/@FondationJacquesRougerie/
+      instagram: >-
+        https://www.instagram.com/fondation_jacquesrougerie/
+      facebook: >-
+        https://www.facebook.com/FondationJacquesRougerie
   permalinks:
     posts: /news-and-events/:year-:month-:day-:slug/
     posts_categories: /news-and-events/:slug/
@@ -24,6 +34,16 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  params:
+    social:
+      linkedin: >-
+        https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
+      youtube: >-
+        https://www.youtube.com/@FondationJacquesRougerie/
+      instagram: >-
+        https://www.instagram.com/fondation_jacquesrougerie/
+      facebook: >-
+        https://www.facebook.com/FondationJacquesRougerie
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
