@@ -17,7 +17,7 @@ header#document-header
         padding-bottom: calc(#{$header-nav-padding-y} * 0.66)
     @include media-breakpoint-up(xxl)
         .logo img
-            height: px2rem(120)
+            height: pxToRem(120)
 
 footer#document-footer
     > .container:first-child
@@ -40,7 +40,7 @@ footer#document-footer
         span, a
             font-weight: bold
             text-transform: uppercase
-            letter-spacing: px2rem(2)
+            letter-spacing: pxToRem(2)
     .nav-level-2
         span, a
             font-weight: normal
@@ -51,8 +51,7 @@ footer#document-footer
     .hero
         .container
             .content
-                h1, 
-                hgroup,
+                .hero-text,
                 .lead
                     text-align: center
                 @include media-breakpoint-up(desktop)
@@ -77,15 +76,15 @@ footer#document-footer
         .content
             justify-content: center
 
-        h1, hgroup
+        .hero-text
             position: relative
             z-index: 10
             width: 100%
             @include media-breakpoint-up(desktop)
                 .lead
-                    width: col(10)
+                    width: columns(10)
         @include media-breakpoint-down(desktop)
-            padding-bottom: $spacing3
+            padding-bottom: $spacing-5
             figure
                 margin: 0
         @include media-breakpoint-down(md)

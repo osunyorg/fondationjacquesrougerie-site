@@ -3,7 +3,9 @@ paginate: 18
 enableRobotsTXT: true
 removePathAccents: true
 params:
-  plausible: fondation-jacques-rougerie.com
+  debug:
+    productionUrl: https://fondation-jacques-rougerie.com
+  plausible: fondation-jacques-rougerie.co
   logo:
     header: "/assets/images/logo-icon.svg"
     footer: "/assets/images/logo-white.svg"
