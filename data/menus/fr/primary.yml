@@ -53,12 +53,12 @@ items:
     target: "/fr/concours/prix-darchitecture-et-dinnovation/"
     kind: page
     children:
-    - title: Mer
-      target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
-      kind: page
-      children: []
     - title: Climat & montée des eaux
       target: "/fr/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/"
+      kind: page
+      children: []
+    - title: Mer
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
       kind: page
       children: []
     - title: Espace

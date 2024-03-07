@@ -53,12 +53,12 @@ items:
     target: "/en/competitions/architecture-and-innovation-awards/"
     kind: page
     children:
-    - title: Sea
-      target: "/en/competitions/architecture-and-innovation-awards/sea/"
-      kind: page
-      children: []
     - title: Climate & Rising waters
       target: "/en/competitions/architecture-and-innovation-awards/climate-rising-waters/"
+      kind: page
+      children: []
+    - title: Sea
+      target: "/en/competitions/architecture-and-innovation-awards/sea/"
       kind: page
       children: []
     - title: Space
