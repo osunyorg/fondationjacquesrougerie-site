@@ -70,11 +70,11 @@ items:
     kind: page
     children:
     - title: Art in the sea
-      target: "/en/competitions/art-awards/art-in-the-sea/"
+      target: "/en/competitions/art-in-the-sea/"
       kind: page
       children: []
     - title: Art in space
-      target: "/en/competitions/art-awards/art-in-space/"
+      target: "/en/competitions/art-in-space/"
       kind: page
       children: []
   - title: Database
