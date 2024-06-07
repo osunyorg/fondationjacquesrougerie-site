@@ -20,9 +20,9 @@ en:
     posts: /news-and-events/:year-:month-:day-:slug/
     posts_categories: /news-and-events/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     authors: /equipe/:slug/news-and-events/
   taxonomies:
     administrator: administrators
@@ -57,9 +57,9 @@ fr:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
-    organizations_categories: /organisations/:slug/
+    organizations_categories: /organisations/categories/:slug/
     persons: /equipe/:slug/
-    persons_categories: /equipe/:slug/
+    persons_categories: /equipe/categories/:slug/
     authors: /equipe/:slug/actualites/
   taxonomies:
     administrator: administrators
