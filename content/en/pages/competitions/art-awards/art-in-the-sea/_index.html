@@ -66,20 +66,28 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 1
+  seconds: 2
   text: >-
     less than a minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       The Art Award jury
-    slug: "the-art-award-jury"
-    position: 1
-    rank: 2
+    slug: >-
+      the-art-award-jury
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: persons
     title: >-
       The Art Award jury
+    slug: >-
+      the-art-award-jury
     ranks:
       self: 3
       children: 4
@@ -139,6 +147,8 @@ contents:
     template: pages
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
       children: 3
@@ -158,7 +168,6 @@ contents:
           slug: "sea-art-grand-prix-2022"
           file: "pages/competitions/art-awards/art-in-the-sea/sea-art-grand-prix-2022/_index.html"
           external: false
-
 
 
 

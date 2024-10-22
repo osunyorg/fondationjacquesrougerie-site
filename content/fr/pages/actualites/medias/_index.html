@@ -60,15 +60,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Articles
-    slug: "articles"
-    position: 1
-    rank: 2
+    slug: >-
+      articles
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -92,16 +100,23 @@ contents:
         - "2023/2023-06-24-civilisation-des-machines-n-2-le-monde-sous-marin"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Podcasts
-    slug: "podcasts"
-    position: 2
-    rank: 2
+    slug: >-
+      podcasts
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -129,6 +144,8 @@ contents:
     template: files
     title: >-
       ESPACE PRESSE
+    slug: >-
+      espace-presse
     ranks:
       self: 3
     data:
@@ -147,7 +164,6 @@ contents:
 
           title: >-
             Communiqué de presse
-
 
 
 

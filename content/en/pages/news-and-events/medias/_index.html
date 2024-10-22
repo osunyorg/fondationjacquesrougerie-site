@@ -60,15 +60,23 @@ contents_reading_time:
   text: >-
     less than a minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Articles
-    slug: "articles"
-    position: 1
-    rank: 2
+    slug: >-
+      articles
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -90,16 +98,23 @@ contents:
         - "2023/2023-02-02-inhabiting-space-with-claudie-haignere"
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Podcasts
-    slug: "podcasts"
-    position: 2
-    rank: 2
+    slug: >-
+      podcasts
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -123,6 +138,8 @@ contents:
   - kind: block
     template: posts
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -150,6 +167,8 @@ contents:
     template: files
     title: >-
       PRESS ROOM
+    slug: >-
+      press-room
     ranks:
       self: 3
     data:
@@ -162,7 +181,6 @@ contents:
 
           title: >-
             Press kit 2022
-
 
 
 
