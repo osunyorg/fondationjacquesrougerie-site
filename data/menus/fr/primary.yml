@@ -13,14 +13,18 @@ items:
       target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
       kind: page
       children: []
+      file: content/fr/pages/fondation/lacademie-des-beaux-arts-institut-de-france/_index.html
     - title: Gouvernance
       target: "/fr/fondation/gouvernance/"
       kind: page
       children: []
+      file: content/fr/pages/fondation/gouvernance/_index.html
     - title: Partenaires & mécènes
       target: "/fr/fondation/partenaires-mecenes/"
       kind: page
       children: []
+      file: content/fr/pages/fondation/partenaires-mecenes/_index.html
+    file: content/fr/pages/fondation/la-fondation/_index.html
   - title: Jacques Rougerie
     target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/"
     kind: page
@@ -29,10 +33,13 @@ items:
       target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/"
       kind: page
       children: []
+      file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/_index.html
     - title: Créations emblématiques
       target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/"
       kind: page
       children: []
+      file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/_index.html
+    file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/_index.html
   - title: Les communautés
     target: "/fr/fondation/les-communautes/"
     kind: page
@@ -41,10 +48,14 @@ items:
       target: "/fr/fondation/les-communautes/ambassadeurs/"
       kind: page
       children: []
+      file: content/fr/pages/fondation/les-communautes/ambassadeurs/_index.html
     - title: Junior Ambassadeurs
       target: "/fr/fondation/les-communautes/junior-ambassadeurs/"
       kind: page
       children: []
+      file: content/fr/pages/fondation/les-communautes/junior-ambassadeurs/_index.html
+    file: content/fr/pages/fondation/les-communautes/_index.html
+  file: content/fr/pages/fondation/_index.html
 - title: Concours
   target: "/fr/concours/"
   kind: page
@@ -57,14 +68,18 @@ items:
       target: "/fr/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/"
       kind: page
       children: []
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/_index.html
     - title: Mer
       target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
       kind: page
       children: []
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/mer/_index.html
     - title: Espace
       target: "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
       kind: page
       children: []
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/espace/_index.html
+    file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/_index.html
   - title: Prix de l’art
     target: "/fr/concours/prix-de-lart/"
     kind: page
@@ -73,16 +88,22 @@ items:
       target: "/fr/concours/prix-de-lart/art-dans-la-mer/"
       kind: page
       children: []
+      file: content/fr/pages/concours/prix-de-lart/art-dans-la-mer/_index.html
     - title: Art dans l'espace
       target: "/fr/concours/prix-de-lart/art-dans-l-espace/"
       kind: page
       children: []
+      file: content/fr/pages/concours/prix-de-lart/art-dans-l-espace/_index.html
+    file: content/fr/pages/concours/prix-de-lart/_index.html
   - title: Database
     target: "/fr/concours/database/"
     kind: page
     children: []
+    file: content/fr/pages/concours/database/_index.html
+  file: content/fr/pages/concours/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
