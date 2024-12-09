@@ -7,15 +7,29 @@ en:
   languageCode: en
   languageName: English
   params:
-    social:
-      linkedin: >-
-        https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
-      youtube: >-
-        https://www.youtube.com/@FondationJacquesRougerie/
-      instagram: >-
-        https://www.instagram.com/fondation_jacquesrougerie/
-      facebook: >-
-        https://www.facebook.com/FondationJacquesRougerie
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.facebook.com/FondationJacquesRougerie
+        instagram:
+          label: >-
+            fondation_jacquesrougerie
+          value: >-
+            https://instagram.com/fondation_jacquesrougerie
+        linkedin:
+          label: >-
+            fondation-jacques-rougerie-academie-des-beaux-arts
+          value: >-
+            https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
+        youtube:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.youtube.com/@FondationJacquesRougerie
+
   permalinks:
     posts: /news-and-events/:year-:month-:day-:slug/
     posts_categories: /news-and-events/:slug/
@@ -44,15 +58,29 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      linkedin: >-
-        https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
-      youtube: >-
-        https://www.youtube.com/@FondationJacquesRougerie/
-      instagram: >-
-        https://www.instagram.com/fondation_jacquesrougerie/
-      facebook: >-
-        https://www.facebook.com/FondationJacquesRougerie
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.facebook.com/FondationJacquesRougerie
+        instagram:
+          label: >-
+            fondation_jacquesrougerie
+          value: >-
+            https://instagram.com/fondation_jacquesrougerie
+        linkedin:
+          label: >-
+            fondation-jacques-rougerie-academie-des-beaux-arts
+          value: >-
+            https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
+        youtube:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.youtube.com/@FondationJacquesRougerie
+
   permalinks:
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
