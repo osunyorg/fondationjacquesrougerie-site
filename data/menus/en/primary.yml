@@ -13,17 +13,21 @@ items:
       target: "/en/foundation/the-academie-des-beaux-arts-institut-de-france/"
       kind: page
       children: []
+      path: "/pages/foundation/the-academie-des-beaux-arts-institut-de-france"
       file: content/en/pages/foundation/the-academie-des-beaux-arts-institut-de-france/_index.html
     - title: Governance
       target: "/en/foundation/governance/"
       kind: page
       children: []
+      path: "/pages/foundation/governance"
       file: content/en/pages/foundation/governance/_index.html
     - title: Partners & sponsors
       target: "/en/foundation/partners-sponsors/"
       kind: page
       children: []
+      path: "/pages/foundation/partners-sponsors"
       file: content/en/pages/foundation/partners-sponsors/_index.html
+    path: "/pages/foundation/the-foundation"
     file: content/en/pages/foundation/the-foundation/_index.html
   - title: Jacques Rougerie
     target: "/en/foundation/jacques-rougerie/"
@@ -33,12 +37,15 @@ items:
       target: "/en/foundation/jacques-rougerie/future-explorer/"
       kind: page
       children: []
+      path: "/pages/foundation/jacques-rougerie/future-explorer"
       file: content/en/pages/foundation/jacques-rougerie/future-explorer/_index.html
     - title: Iconic creations
       target: "/en/foundation/jacques-rougerie/iconic-creations/"
       kind: page
       children: []
+      path: "/pages/foundation/jacques-rougerie/iconic-creations"
       file: content/en/pages/foundation/jacques-rougerie/iconic-creations/_index.html
+    path: "/pages/foundation/jacques-rougerie"
     file: content/en/pages/foundation/jacques-rougerie/_index.html
   - title: Communities
     target: "/en/foundation/communities/"
@@ -48,13 +55,17 @@ items:
       target: "/en/foundation/communities/ambassadors/"
       kind: page
       children: []
+      path: "/pages/foundation/communities/ambassadors"
       file: content/en/pages/foundation/communities/ambassadors/_index.html
     - title: Junior Ambassadors
       target: "/en/foundation/communities/junior-ambassadors/"
       kind: page
       children: []
+      path: "/pages/foundation/communities/junior-ambassadors"
       file: content/en/pages/foundation/communities/junior-ambassadors/_index.html
+    path: "/pages/foundation/communities"
     file: content/en/pages/foundation/communities/_index.html
+  path: "/pages/foundation"
   file: content/en/pages/foundation/_index.html
 - title: Competitions
   target: "/en/competitions/"
@@ -68,17 +79,21 @@ items:
       target: "/en/competitions/architecture-and-innovation-awards/climate-rising-waters/"
       kind: page
       children: []
+      path: "/pages/competitions/architecture-and-innovation-awards/climate-rising-waters"
       file: content/en/pages/competitions/architecture-and-innovation-awards/climate-rising-waters/_index.html
     - title: Sea
       target: "/en/competitions/architecture-and-innovation-awards/sea/"
       kind: page
       children: []
+      path: "/pages/competitions/architecture-and-innovation-awards/sea"
       file: content/en/pages/competitions/architecture-and-innovation-awards/sea/_index.html
     - title: Space
       target: "/en/competitions/architecture-and-innovation-awards/space/"
       kind: page
       children: []
+      path: "/pages/competitions/architecture-and-innovation-awards/space"
       file: content/en/pages/competitions/architecture-and-innovation-awards/space/_index.html
+    path: "/pages/competitions/architecture-and-innovation-awards"
     file: content/en/pages/competitions/architecture-and-innovation-awards/_index.html
   - title: Art Awards
     target: "/en/competitions/art-awards/"
@@ -88,22 +103,28 @@ items:
       target: "/en/competitions/art-awards/art-in-the-sea/"
       kind: page
       children: []
+      path: "/pages/competitions/art-awards/art-in-the-sea"
       file: content/en/pages/competitions/art-awards/art-in-the-sea/_index.html
     - title: Art in space
       target: "/en/competitions/art-awards/art-in-space/"
       kind: page
       children: []
+      path: "/pages/competitions/art-awards/art-in-space"
       file: content/en/pages/competitions/art-awards/art-in-space/_index.html
+    path: "/pages/competitions/art-awards"
     file: content/en/pages/competitions/art-awards/_index.html
   - title: Database
     target: "/en/competitions/database/"
     kind: page
     children: []
+    path: "/pages/competitions/database"
     file: content/en/pages/competitions/database/_index.html
+  path: "/pages/competitions"
   file: content/en/pages/competitions/_index.html
 - title: News & events
   target: "/en/news-and-events/"
   kind: page
   children: []
+  path: "/posts"
   file: content/en/posts/_index.html
 
