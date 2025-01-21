@@ -31,6 +31,7 @@ en:
             https://www.youtube.com/@FondationJacquesRougerie
 
   permalinks:
+    pages_categories: /:slug/
     posts: /news-and-events/:year-:month-:day-:slug/
     posts_categories: /news-and-events/:slug/
     organizations: /organisations/:slug/
@@ -45,6 +46,7 @@ en:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
@@ -82,6 +84,7 @@ fr:
             https://www.youtube.com/@FondationJacquesRougerie
 
   permalinks:
+    pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
     organizations: /organisations/:slug/
@@ -96,6 +99,7 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
