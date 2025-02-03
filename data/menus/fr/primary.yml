@@ -148,7 +148,7 @@ items:
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
-- title: Faire un donc
+- title: Faire un don
   target: https://soutenir.academiedesbeauxarts.fr/jacquesrougerie/~mon-don?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyP4IK%2BGTZ1f2T5U2RnLFcLFGqnsSZAzVLI1OJpaC7NeRA%3D%3D&amp;amp%3Blang=fr_FR&amp;_cv=1
   kind: url
   new_tab: true
