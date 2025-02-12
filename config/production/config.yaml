@@ -2,6 +2,11 @@
 
 baseURL: https://www.fondation-jacques-rougerie.com
 
+## OSUNY
+osuny:
+  website:
+    id: f033833a-3aa1-4070-82d7-ddda98b96964
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
