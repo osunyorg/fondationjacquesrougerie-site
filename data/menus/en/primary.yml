@@ -89,12 +89,12 @@ items:
     new_tab: false
     children:
     - title: Climate & Rising waters
-      target: "/en/competitions/architecture-and-innovation-awards/climate-rising-waters/"
+      target: "/en/competitions/architecture-and-innovation-awards/littoral-rising-waters/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/competitions/architecture-and-innovation-awards/climate-rising-waters"
-      file: content/en/pages/competitions/architecture-and-innovation-awards/climate-rising-waters/_index.html
+      path: "/pages/competitions/architecture-and-innovation-awards/littoral-rising-waters"
+      file: content/en/pages/competitions/architecture-and-innovation-awards/littoral-rising-waters/_index.html
     - title: Sea
       target: "/en/competitions/architecture-and-innovation-awards/sea/"
       kind: page
