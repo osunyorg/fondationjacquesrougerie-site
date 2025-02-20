@@ -89,12 +89,12 @@ items:
     new_tab: false
     children:
     - title: Climat & montée des eaux
-      target: "/fr/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/"
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux"
-      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/_index.html
+      path: "/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux"
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/_index.html
     - title: Mer
       target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
       kind: page
