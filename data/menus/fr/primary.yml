@@ -88,7 +88,7 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Climat & montée des eaux
+    - title: Enjeux littoraux & Montée des eaux
       target: "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
       kind: page
       new_tab: false
