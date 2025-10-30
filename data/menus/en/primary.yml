@@ -67,13 +67,6 @@ items:
       children: []
       path: "/pages/foundation/communities/ambassadors"
       file: content/en/pages/foundation/communities/ambassadors/_index.html
-    - title: Junior Ambassadors
-      target: "/en/junior-ambassadors/"
-      kind: page
-      new_tab: false
-      children: []
-      path: "/pages/junior-ambassadors"
-      file: content/en/pages/junior-ambassadors/_index.html
     path: "/pages/foundation/communities"
     file: content/en/pages/foundation/communities/_index.html
   path: "/pages/foundation"
@@ -148,6 +141,13 @@ items:
   children: []
   path: "/posts"
   file: content/en/posts/_index.html
+- title: Junior Ambassadors
+  target: "/en/junior-ambassadors/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/junior-ambassadors"
+  file: content/en/pages/junior-ambassadors/_index.html
 - title: Donate
   target: https://donner.institutdefrance.fr/FJR/~mon-don?_cv=1
   kind: url
