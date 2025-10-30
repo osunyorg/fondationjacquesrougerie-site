@@ -68,12 +68,12 @@ items:
       path: "/pages/fondation/les-communautes/ambassadeurs"
       file: content/fr/pages/fondation/les-communautes/ambassadeurs/_index.html
     - title: Junior Ambassadeurs
-      target: "/fr/fondation/les-communautes/junior-ambassadeurs/"
+      target: "/fr/junior-ambassadeurs/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/fondation/les-communautes/junior-ambassadeurs"
-      file: content/fr/pages/fondation/les-communautes/junior-ambassadeurs/_index.html
+      path: "/pages/junior-ambassadeurs"
+      file: content/fr/pages/junior-ambassadeurs/_index.html
     path: "/pages/fondation/les-communautes"
     file: content/fr/pages/fondation/les-communautes/_index.html
   path: "/pages/fondation"

@@ -68,12 +68,12 @@ items:
       path: "/pages/foundation/communities/ambassadors"
       file: content/en/pages/foundation/communities/ambassadors/_index.html
     - title: Junior Ambassadors
-      target: "/en/foundation/communities/junior-ambassadors/"
+      target: "/en/junior-ambassadors/"
       kind: page
       new_tab: false
       children: []
-      path: "/pages/foundation/communities/junior-ambassadors"
-      file: content/en/pages/foundation/communities/junior-ambassadors/_index.html
+      path: "/pages/junior-ambassadors"
+      file: content/en/pages/junior-ambassadors/_index.html
     path: "/pages/foundation/communities"
     file: content/en/pages/foundation/communities/_index.html
   path: "/pages/foundation"
