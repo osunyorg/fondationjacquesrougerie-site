@@ -50,15 +50,6 @@ params:
         mobile:   164
         tablet:   216
         desktop:  196
-      gallery:
-        carousel:
-          mobile:   400
-          tablet:   600
-          desktop:  1024
-        grid:
-          mobile:   170
-          tablet:   350
-          desktop:  415
     sections:
       categories:
         hero:
