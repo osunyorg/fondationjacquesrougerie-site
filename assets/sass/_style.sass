@@ -52,10 +52,10 @@ footer#document-footer
         .container
             .content
                 .hero-text,
-                .lead
+                .has-lead > p
                     text-align: center
                 @include media-breakpoint-up(desktop)
-                    .lead
+                    .has-lead > p
                         width: 100%
                         margin-left: auto
                         margin-right: auto
@@ -81,14 +81,14 @@ footer#document-footer
             z-index: 10
             width: 100%
             @include media-breakpoint-up(desktop)
-                .lead
+                .has-lead > p
                     width: columns(10)
         @include media-breakpoint-down(desktop)
             padding-bottom: $spacing-5
             figure
                 margin: 0
         @include media-breakpoint-down(md)
-            .container .content hgroup .lead
+            .container .content hgroup .has-lead > p
                 width: 100%
 
 @include media-breakpoint-up(desktop)

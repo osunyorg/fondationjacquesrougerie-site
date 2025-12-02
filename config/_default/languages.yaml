@@ -6,33 +6,43 @@ en:
   contentDir: content/en
   languageCode: en
   languageName: English
+  buildFuture: true
   params:
-    social:
-      linkedin: >-
-        https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
-      youtube: >-
-        https://www.youtube.com/@FondationJacquesRougerie/
-      instagram: >-
-        https://www.instagram.com/fondation_jacquesrougerie/
-      facebook: >-
-        https://www.facebook.com/FondationJacquesRougerie
-  permalinks:
-    posts: /news-and-events/:year-:month-:day-:slug/
-    posts_categories: /news-and-events/:slug/
-    organizations: /organisations/:slug/
-    organizations_categories: /organisations/categories/:slug/
-    persons: /equipe/:slug/
-    persons_categories: /equipe/categories/:slug/
-    authors: /equipe/:slug/news-and-events/
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.facebook.com/FondationJacquesRougerie
+        instagram:
+          label: >-
+            fondation_jacquesrougerie
+          value: >-
+            https://instagram.com/fondation_jacquesrougerie
+        linkedin:
+          label: >-
+            fondation-jacques-rougerie-academie-des-beaux-arts
+          value: >-
+            https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts/
+        youtube:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.youtube.com/@FondationJacquesRougerie
+
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
+    jobs_category: jobs_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
+    programs_category: programs_categories
     projects_category: projects_categories
     researcher: researchers
     teacher: teachers
@@ -43,33 +53,43 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  buildFuture: true
   params:
-    social:
-      linkedin: >-
-        https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts
-      youtube: >-
-        https://www.youtube.com/@FondationJacquesRougerie/
-      instagram: >-
-        https://www.instagram.com/fondation_jacquesrougerie/
-      facebook: >-
-        https://www.facebook.com/FondationJacquesRougerie
-  permalinks:
-    posts: /actualites/:year-:month-:day-:slug/
-    posts_categories: /actualites/:slug/
-    organizations: /organisations/:slug/
-    organizations_categories: /organisations/categories/:slug/
-    persons: /-/:slug/
-    persons_categories: /-/categories/:slug/
-    authors: /-/:slug/actualites/
+    contact_details:
+      social_networks:
+        facebook:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.facebook.com/FondationJacquesRougerie
+        instagram:
+          label: >-
+            fondation_jacquesrougerie
+          value: >-
+            https://instagram.com/fondation_jacquesrougerie
+        linkedin:
+          label: >-
+            fondation-jacques-rougerie-academie-des-beaux-arts
+          value: >-
+            https://www.linkedin.com/company/fondation-jacques-rougerie-academie-des-beaux-arts/
+        youtube:
+          label: >-
+            FondationJacquesRougerie
+          value: >-
+            https://www.youtube.com/@FondationJacquesRougerie
+
   taxonomies:
     administrator: administrators
     author: authors
     diploma: diplomas
     events_category: events_categories
+    jobs_category: jobs_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
+    programs_category: programs_categories
     projects_category: projects_categories
     researcher: researchers
     teacher: teachers

@@ -1,15 +1,36 @@
 ---
-title: >-
-  Médias
 breadcrumb_title: >-
   Médias
+title: >-
+  Médias
+bodyclass: >-
+   
 url: "/fr/actualites/medias/"
 slug: "medias"
-hugo:
-  permalink: "/fr/actualites/medias/"
-  file: "content/fr/pages/actualites/medias/_index.html"
-  path: "/fr/actualites/medias/"
-  slug: "medias"
+date: 2023-07-21T10:57:40+02:00
+lastmod: 2024-09-30T11:03:51+02:00
+meta:
+  hugo:
+    permalink: "/fr/actualites/medias/"
+    path: "/pages/actualites/medias"
+    file: "content/fr/pages/actualites/medias/_index.html"
+    slug: "medias"
+  dates:
+    created_at: 2023-06-06T12:13:33+02:00
+    updated_at: 2024-09-30T11:03:51+02:00
+    published_at: 2023-07-21T10:57:40+02:00
+search:
+  id: "5e9390c0-cab9-44a5-8d3f-072a353e0843"
+  about_id: "a1b38a0e-481d-4cb3-8b9d-a6bfb5aa60bc"
+  url: "/fr/actualites/medias/"
+  kind: "Communication::Website::Page::Localization"
+  lang: "fr"
+  title: >-
+    Médias
+  summary: >-
+    <p>Articles, podcasts, interviews, talks... Ils parlent de nous, et avec nous !</p>
+  body: >-
+    <p>Articles  <br> Podcasts  <br> ESPACE PRESSE Retrouvez ici nos derniers communiqués et dossiers de presse. <br>Dossier de presse 2022</p>  <p>Communiqué de presse </p>
 
 breadcrumbs:
   - title: >-
@@ -21,21 +42,20 @@ breadcrumbs:
   - title: >-
       Médias
 
-full_width: true
 design:
   full_width: true
   toc:
     present: true
     offcanvas: true
 
+
 position: 1
 weight: 1
+
 translationKey: communication-website-page-a1b38a0e-481d-4cb3-8b9d-a6bfb5aa60bc
 
-bodyclass: >-
-  
 image:
-  id: "37a0489b-d0fa-4cf1-95f0-fbdbd8b2cca7"
+  id: "300ce96d-27b2-4c02-8d3a-f50767a677e7"
   alt: ""
   credit: >-
     
@@ -43,45 +63,53 @@ image:
 
 meta_description: >-
   
-description: >-
-  
 
 summary: >-
-  Articles, podcasts, interviews, talks... Ils parlent de nous, et avec nous !
+  <p>Articles, podcasts, interviews, talks... Ils parlent de nous, et avec nous !</p>
 
 header_text: >-
   Ils parlent de la Fondation
 header_cta:
-  display: false
-  label: >-
-    
-  target: ""
+
+
 contents_reading_time:
   seconds: 5
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Articles
-    slug: "articles"
-    position: 0
-    rank: 2
+    slug: >-
+      articles
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Articles
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
       children: 3
+    top:
+      active: false
     data:
       mode: category
-      hide_image: false
-      hide_summary: false
-      hide_category: false
-      hide_author: false
-      hide_date: false
-      category: "/publications/"
+      category: "publications"
       layout: list
       options:
         author: true
@@ -89,35 +117,65 @@ contents:
         date: true
         image: true
         reading_time: false
+        subtitle: true
         summary: true
 
       posts:
-        - "2023/2023-06-24-civilisation-des-machines-n-2-le-monde-sous-marin"
-        - "2023/2023-02-02-habiter-lespace-avec-claudie-haignere"
+        - permalink: "/fr/actualites/2025-10-30-reportage-arte-notre-avenir-est-il-sur-leau/"
+          path: "/posts/2025/2025-10-30-reportage-arte-notre-avenir-est-il-sur-leau"
+          slug: "reportage-arte-notre-avenir-est-il-sur-leau"
+          file: "content/fr/posts/2025/2025-10-30-reportage-arte-notre-avenir-est-il-sur-leau.html"
+          name: >-
+            Reportage ARTE : Notre Avenir est-il sur l'eau ?
+        - permalink: "/fr/actualites/2025-10-27-signature-de-lappel-du-pharo/"
+          path: "/posts/2025/2025-10-27-signature-de-lappel-du-pharo"
+          slug: "signature-de-lappel-du-pharo"
+          file: "content/fr/posts/2025/2025-10-27-signature-de-lappel-du-pharo.html"
+          name: >-
+            Signature de l'Appel du Pharo
+        - permalink: "/fr/actualites/2025-09-19-la-fondation-accueille-des-etudiants-erasmus-sur-sa-peniche-a-paris/"
+          path: "/posts/2025/2025-09-19-la-fondation-accueille-des-etudiants-erasmus-sur-sa-peniche-a-paris"
+          slug: "la-fondation-accueille-des-etudiants-erasmus-sur-sa-peniche-a-paris"
+          file: "content/fr/posts/2025/2025-09-19-la-fondation-accueille-des-etudiants-erasmus-sur-sa-peniche-a-paris.html"
+          name: >-
+            La Fondation accueille des étudiants Erasmus sur la Péniche de Jacques Rougerie à Paris
+
+      quantity: 3
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Podcasts
-    slug: "podcasts"
-    position: 2
-    rank: 2
+    slug: >-
+      podcasts
+    ranks:
+      base: 2
+      self: 2
+    top:
+      active: true
+      title: 
+        value: >-
+          Podcasts
+        heading: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: posts
     title: >-
       
+    slug: >-
+      
     ranks:
-      self: false
+      base: 3
       children: 3
+    top:
+      active: false
     data:
       mode: category
-      hide_image: false
-      hide_summary: false
-      hide_category: false
-      hide_author: false
-      hide_date: false
-      category: "/podcast/"
+      category: "podcast"
       layout: list
       options:
         author: true
@@ -125,20 +183,49 @@ contents:
         date: true
         image: true
         reading_time: false
+        subtitle: true
         summary: true
 
       posts:
-        - "2023/2023-03-07-seaorbiter-de-jacques-rougerie-nouveau-paradigme-architectural"
-        - "2022/2022-12-30-jacques-rougerie-architecte-merien-reveur-dynamise-par-l-envie-et-l-audace-de-la-jeunesse"
-        - "2021/2021-06-08-vivre-sous-leau"
+        - permalink: "/fr/actualites/2025-03-10-le-concours-international-darchitecture-et-dinnovation-2025-mis-a-lhonneur-sur-france-inter/"
+          path: "/posts/2025/2025-03-10-le-concours-international-darchitecture-et-dinnovation-2025-mis-a-lhonneur-sur-france-inter"
+          slug: "le-concours-international-darchitecture-et-dinnovation-2025-mis-a-lhonneur-sur-france-inter"
+          file: "content/fr/posts/2025/2025-03-10-le-concours-international-darchitecture-et-dinnovation-2025-mis-a-lhonneur-sur-france-inter.html"
+          name: >-
+            Le Concours international d’Architecture et d’Innovation 2025 mis à l’honneur sur France Inter
+        - permalink: "/fr/actualites/2023-03-07-seaorbiter-de-jacques-rougerie-nouveau-paradigme-architectural/"
+          path: "/posts/2023/2023-03-07-seaorbiter-de-jacques-rougerie-nouveau-paradigme-architectural"
+          slug: "seaorbiter-de-jacques-rougerie-nouveau-paradigme-architectural"
+          file: "content/fr/posts/2023/2023-03-07-seaorbiter-de-jacques-rougerie-nouveau-paradigme-architectural.html"
+          name: >-
+            SeaOrbiter de Jacques Rougerie, nouveau paradigme architectural ?
+        - permalink: "/fr/actualites/2022-12-30-jacques-rougerie-architecte-merien-reveur-dynamise-par-l-envie-et-l-audace-de-la-jeunesse/"
+          path: "/posts/2022/2022-12-30-jacques-rougerie-architecte-merien-reveur-dynamise-par-l-envie-et-l-audace-de-la-jeunesse"
+          slug: "jacques-rougerie-architecte-merien-reveur-dynamise-par-l-envie-et-l-audace-de-la-jeunesse"
+          file: "content/fr/posts/2022/2022-12-30-jacques-rougerie-architecte-merien-reveur-dynamise-par-l-envie-et-l-audace-de-la-jeunesse.html"
+          name: >-
+            Jacques Rougerie, architecte 'mérien' rêveur, dynamisé par "l'envie et l'audace" de la jeunesse
+
+      quantity: 3
 
 
   - kind: block
     template: files
     title: >-
       ESPACE PRESSE
+    slug: >-
+      espace-presse
     ranks:
+      base: 3
       self: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          ESPACE PRESSE
+        heading: 3
+      description: >-
+        <p>Retrouvez ici nos derniers communiqués et dossiers de presse.</p>
     data:
       description: >-
         <p>Retrouvez ici nos derniers communiqués et dossiers de presse.</p>
@@ -149,6 +236,7 @@ contents:
 
           title: >-
             Dossier de presse 2022
+
 
         - id: "741d2782-c649-443f-b16b-52d985213fd4"
           file: "741d2782-c649-443f-b16b-52d985213fd4"

@@ -4,85 +4,153 @@ items:
 - title: Fondation
   target: "/fr/fondation/"
   kind: page
+  new_tab: false
   children:
   - title: La Fondation
     target: "/fr/fondation/la-fondation/"
     kind: page
+    new_tab: false
     children:
     - title: L'Académie des beaux-arts - Institut de France
       target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/fondation/lacademie-des-beaux-arts-institut-de-france"
+      file: content/fr/pages/fondation/lacademie-des-beaux-arts-institut-de-france/_index.html
     - title: Gouvernance
       target: "/fr/fondation/gouvernance/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/fondation/gouvernance"
+      file: content/fr/pages/fondation/gouvernance/_index.html
     - title: Partenaires & mécènes
       target: "/fr/fondation/partenaires-mecenes/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/fondation/partenaires-mecenes"
+      file: content/fr/pages/fondation/partenaires-mecenes/_index.html
+    path: "/pages/fondation/la-fondation"
+    file: content/fr/pages/fondation/la-fondation/_index.html
   - title: Jacques Rougerie
     target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/"
     kind: page
+    new_tab: false
     children:
     - title: Explorateur du futur
       target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur"
+      file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/_index.html
     - title: Créations emblématiques
       target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques"
+      file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/_index.html
+    path: "/pages/fondation/jacques-rougerie-architecte-visionnaire"
+    file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/_index.html
   - title: Les communautés
     target: "/fr/fondation/les-communautes/"
     kind: page
+    new_tab: false
     children:
     - title: Ambassadeurs
       target: "/fr/fondation/les-communautes/ambassadeurs/"
       kind: page
+      new_tab: false
       children: []
-    - title: Junior Ambassadeurs
-      target: "/fr/fondation/les-communautes/junior-ambassadeurs/"
-      kind: page
-      children: []
+      path: "/pages/fondation/les-communautes/ambassadeurs"
+      file: content/fr/pages/fondation/les-communautes/ambassadeurs/_index.html
+    path: "/pages/fondation/les-communautes"
+    file: content/fr/pages/fondation/les-communautes/_index.html
+  path: "/pages/fondation"
+  file: content/fr/pages/fondation/_index.html
 - title: Concours
   target: "/fr/concours/"
   kind: page
+  new_tab: false
   children:
   - title: Prix d'architecture et d'innovation
     target: "/fr/concours/prix-darchitecture-et-dinnovation/"
     kind: page
+    new_tab: false
     children:
-    - title: Climat & montée des eaux
-      target: "/fr/concours/prix-darchitecture-et-dinnovation/climat-montee-eaux/"
+    - title: Enjeux littoraux & Montée des eaux
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux"
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/_index.html
     - title: Mer
       target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/concours/prix-darchitecture-et-dinnovation/mer"
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/mer/_index.html
     - title: Espace
       target: "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/concours/prix-darchitecture-et-dinnovation/espace"
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/espace/_index.html
+    path: "/pages/concours/prix-darchitecture-et-dinnovation"
+    file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/_index.html
   - title: Prix de l’art
     target: "/fr/concours/prix-de-lart/"
     kind: page
+    new_tab: false
     children:
     - title: Art dans la mer
       target: "/fr/concours/prix-de-lart/art-dans-la-mer/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/concours/prix-de-lart/art-dans-la-mer"
+      file: content/fr/pages/concours/prix-de-lart/art-dans-la-mer/_index.html
     - title: Art dans l'espace
       target: "/fr/concours/prix-de-lart/art-dans-l-espace/"
       kind: page
+      new_tab: false
       children: []
+      path: "/pages/concours/prix-de-lart/art-dans-l-espace"
+      file: content/fr/pages/concours/prix-de-lart/art-dans-l-espace/_index.html
+    path: "/pages/concours/prix-de-lart"
+    file: content/fr/pages/concours/prix-de-lart/_index.html
   - title: Database
     target: "/fr/concours/database/"
     kind: page
+    new_tab: false
     children: []
+    path: "/pages/concours/database"
+    file: content/fr/pages/concours/database/_index.html
+  path: "/pages/concours"
+  file: content/fr/pages/concours/_index.html
+- title: Junior Ambassadeurs
+  target: "/fr/junior-ambassadeurs/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/junior-ambassadeurs"
+  file: content/fr/pages/junior-ambassadeurs/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
+  new_tab: false
+  children: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: Faire un don
+  target: https://soutenir.academiedesbeauxarts.fr/jacquesrougerie/~mon-don?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyP4IK%2BGTZ1f2T5U2RnLFcLFGqnsSZAzVLI1OJpaC7NeRA%3D%3D&amp%3Blang=fr_FR&_cv=1
+  kind: url
+  new_tab: true
   children: []
 
