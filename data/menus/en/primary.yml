@@ -67,6 +67,13 @@ items:
       children: []
       path: "/pages/foundation/communities/ambassadors"
       file: content/en/pages/foundation/communities/ambassadors/_index.html
+    - title: Scientific Council
+      target: "/en/foundation/communities/scientific-council/"
+      kind: page
+      new_tab: false
+      children: []
+      path: "/pages/foundation/communities/scientific-council"
+      file: content/en/pages/foundation/communities/scientific-council/_index.html
     path: "/pages/foundation/communities"
     file: content/en/pages/foundation/communities/_index.html
   path: "/pages/foundation"
