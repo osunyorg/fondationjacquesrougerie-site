@@ -13,3 +13,6 @@ params:
     position: hero
   search:
     active: true
+  home:
+    head:
+      title: site

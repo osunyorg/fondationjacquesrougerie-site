@@ -18,17 +18,10 @@ header#document-header
     @include media-breakpoint-up(xxl)
         .logo img
             height: pxToRem(120)
-
-footer#document-footer
-    > .container:first-child
-        padding-bottom: 0
-        justify-content: center !important
-    > .container:nth-child(2)
-        padding-top: 0
-    .footer-i18n
-        display: none
-    .container
-        align-items: end
+    @include media-breakpoint-up(desktop)
+        .dropdown-menu:not(.is-titled)
+            .nav-level-2
+                grid-template-columns: repeat(3, 1fr)
 
 .has-menu-opened
     header#document-header
@@ -46,6 +39,17 @@ footer#document-footer
             font-weight: normal
             text-transform: none
             letter-spacing: 0
+
+footer#document-footer
+    > .container:first-child
+        padding-bottom: 0
+        justify-content: center !important
+    > .container:nth-child(2)
+        padding-top: 0
+    .footer-i18n
+        display: none
+    .container
+        align-items: end
 
 .page__home
     .hero
