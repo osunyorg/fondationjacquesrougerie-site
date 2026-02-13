@@ -2,162 +2,238 @@
 title: Menu principal
 items:
 - title: Foundation
+  slug: foundation
   target: "/en/foundation/"
   kind: page
   new_tab: false
   children:
   - title: The Foundation
+    slug: the-foundation
     target: "/en/foundation/the-foundation/"
     kind: page
     new_tab: false
     children:
     - title: The Académie des beaux-arts - Institut de France
+      slug: the-academie-des-beaux-arts-institut-de-france
       target: "/en/foundation/the-academie-des-beaux-arts-institut-de-france/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/foundation/the-academie-des-beaux-arts-institut-de-france"
       file: content/en/pages/foundation/the-academie-des-beaux-arts-institut-de-france/_index.html
     - title: Governance
+      slug: governance
       target: "/en/foundation/governance/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/foundation/governance"
       file: content/en/pages/foundation/governance/_index.html
     - title: Partners & sponsors
+      slug: partners-sponsors
       target: "/en/foundation/partners-sponsors/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/foundation/partners-sponsors"
       file: content/en/pages/foundation/partners-sponsors/_index.html
+    descendants_targets:
+    - "/en/foundation/governance/"
+    - "/en/foundation/partners-sponsors/"
+    - "/en/foundation/the-academie-des-beaux-arts-institut-de-france/"
     path: "/pages/foundation/the-foundation"
     file: content/en/pages/foundation/the-foundation/_index.html
   - title: Jacques Rougerie
+    slug: jacques-rougerie
     target: "/en/foundation/jacques-rougerie/"
     kind: page
     new_tab: false
     children:
     - title: Future explorer
+      slug: future-explorer
       target: "/en/foundation/jacques-rougerie/future-explorer/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/foundation/jacques-rougerie/future-explorer"
       file: content/en/pages/foundation/jacques-rougerie/future-explorer/_index.html
     - title: Iconic creations
+      slug: iconic-creations
       target: "/en/foundation/jacques-rougerie/iconic-creations/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/foundation/jacques-rougerie/iconic-creations"
       file: content/en/pages/foundation/jacques-rougerie/iconic-creations/_index.html
+    descendants_targets:
+    - "/en/foundation/jacques-rougerie/future-explorer/"
+    - "/en/foundation/jacques-rougerie/iconic-creations/"
     path: "/pages/foundation/jacques-rougerie"
     file: content/en/pages/foundation/jacques-rougerie/_index.html
   - title: Communities
+    slug: communities
     target: "/en/foundation/communities/"
     kind: page
     new_tab: false
     children:
     - title: Ambassadors
+      slug: ambassadors
       target: "/en/foundation/communities/ambassadors/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/foundation/communities/ambassadors"
       file: content/en/pages/foundation/communities/ambassadors/_index.html
     - title: Scientific Council
+      slug: scientific-council
       target: "/en/foundation/communities/scientific-council/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/foundation/communities/scientific-council"
       file: content/en/pages/foundation/communities/scientific-council/_index.html
+    descendants_targets:
+    - "/en/foundation/communities/ambassadors/"
+    - "/en/foundation/communities/scientific-council/"
     path: "/pages/foundation/communities"
     file: content/en/pages/foundation/communities/_index.html
+  descendants_targets:
+  - "/en/foundation/communities/"
+  - "/en/foundation/communities/ambassadors/"
+  - "/en/foundation/communities/scientific-council/"
+  - "/en/foundation/governance/"
+  - "/en/foundation/jacques-rougerie/"
+  - "/en/foundation/jacques-rougerie/future-explorer/"
+  - "/en/foundation/jacques-rougerie/iconic-creations/"
+  - "/en/foundation/partners-sponsors/"
+  - "/en/foundation/the-academie-des-beaux-arts-institut-de-france/"
+  - "/en/foundation/the-foundation/"
   path: "/pages/foundation"
   file: content/en/pages/foundation/_index.html
 - title: Competitions
+  slug: competitions
   target: "/en/competitions/"
   kind: page
   new_tab: false
   children:
   - title: Architecture and Innovation Awards
+    slug: architecture-and-innovation-awards
     target: "/en/competitions/architecture-and-innovation-awards/"
     kind: page
     new_tab: false
     children:
     - title: Littoral stakes & Rising waters
+      slug: littoral-stakes-rising-waters
       target: "/en/competitions/architecture-and-innovation-awards/littoral-rising-waters/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/competitions/architecture-and-innovation-awards/littoral-rising-waters"
       file: content/en/pages/competitions/architecture-and-innovation-awards/littoral-rising-waters/_index.html
     - title: Sea
+      slug: sea
       target: "/en/competitions/architecture-and-innovation-awards/sea/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/competitions/architecture-and-innovation-awards/sea"
       file: content/en/pages/competitions/architecture-and-innovation-awards/sea/_index.html
     - title: Space
+      slug: space
       target: "/en/competitions/architecture-and-innovation-awards/space/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/competitions/architecture-and-innovation-awards/space"
       file: content/en/pages/competitions/architecture-and-innovation-awards/space/_index.html
+    descendants_targets:
+    - "/en/competitions/architecture-and-innovation-awards/littoral-rising-waters/"
+    - "/en/competitions/architecture-and-innovation-awards/sea/"
+    - "/en/competitions/architecture-and-innovation-awards/space/"
     path: "/pages/competitions/architecture-and-innovation-awards"
     file: content/en/pages/competitions/architecture-and-innovation-awards/_index.html
   - title: Art Awards
+    slug: art-awards
     target: "/en/competitions/art-awards/"
     kind: page
     new_tab: false
     children:
     - title: Art in the sea
+      slug: art-in-the-sea
       target: "/en/competitions/art-awards/art-in-the-sea/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/competitions/art-awards/art-in-the-sea"
       file: content/en/pages/competitions/art-awards/art-in-the-sea/_index.html
     - title: Art in space
+      slug: art-in-space
       target: "/en/competitions/art-awards/art-in-space/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/competitions/art-awards/art-in-space"
       file: content/en/pages/competitions/art-awards/art-in-space/_index.html
+    descendants_targets:
+    - "/en/competitions/art-awards/art-in-space/"
+    - "/en/competitions/art-awards/art-in-the-sea/"
     path: "/pages/competitions/art-awards"
     file: content/en/pages/competitions/art-awards/_index.html
   - title: Database
+    slug: database
     target: "/en/competitions/database/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/competitions/database"
     file: content/en/pages/competitions/database/_index.html
+  descendants_targets:
+  - "/en/competitions/architecture-and-innovation-awards/"
+  - "/en/competitions/architecture-and-innovation-awards/littoral-rising-waters/"
+  - "/en/competitions/architecture-and-innovation-awards/sea/"
+  - "/en/competitions/architecture-and-innovation-awards/space/"
+  - "/en/competitions/art-awards/"
+  - "/en/competitions/art-awards/art-in-space/"
+  - "/en/competitions/art-awards/art-in-the-sea/"
+  - "/en/competitions/database/"
   path: "/pages/competitions"
   file: content/en/pages/competitions/_index.html
 - title: News & events
+  slug: news-events
   target: "/en/news-and-events/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/en/posts/_index.html
 - title: Junior Ambassadors
+  slug: junior-ambassadors
   target: "/en/junior-ambassadors/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/junior-ambassadors"
   file: content/en/pages/junior-ambassadors/_index.html
 - title: Donate
+  slug: donate
   target: https://donner.institutdefrance.fr/FJR/~mon-don?_cv=1
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

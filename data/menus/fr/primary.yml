@@ -2,162 +2,238 @@
 title: Menu principal
 items:
 - title: Fondation
+  slug: fondation
   target: "/fr/fondation/"
   kind: page
   new_tab: false
   children:
   - title: La Fondation
+    slug: la-fondation
     target: "/fr/fondation/la-fondation/"
     kind: page
     new_tab: false
     children:
     - title: L'Académie des beaux-arts - Institut de France
+      slug: l-academie-des-beaux-arts-institut-de-france
       target: "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/fondation/lacademie-des-beaux-arts-institut-de-france"
       file: content/fr/pages/fondation/lacademie-des-beaux-arts-institut-de-france/_index.html
     - title: Gouvernance
+      slug: gouvernance
       target: "/fr/fondation/gouvernance/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/fondation/gouvernance"
       file: content/fr/pages/fondation/gouvernance/_index.html
     - title: Partenaires & mécènes
+      slug: partenaires-mecenes
       target: "/fr/fondation/partenaires-mecenes/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/fondation/partenaires-mecenes"
       file: content/fr/pages/fondation/partenaires-mecenes/_index.html
+    descendants_targets:
+    - "/fr/fondation/gouvernance/"
+    - "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
+    - "/fr/fondation/partenaires-mecenes/"
     path: "/pages/fondation/la-fondation"
     file: content/fr/pages/fondation/la-fondation/_index.html
   - title: Jacques Rougerie
+    slug: jacques-rougerie
     target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/"
     kind: page
     new_tab: false
     children:
     - title: Explorateur du futur
+      slug: explorateur-du-futur
       target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur"
       file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/_index.html
     - title: Créations emblématiques
+      slug: creations-emblematiques
       target: "/fr/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques"
       file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/_index.html
+    descendants_targets:
+    - "/fr/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/"
+    - "/fr/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/"
     path: "/pages/fondation/jacques-rougerie-architecte-visionnaire"
     file: content/fr/pages/fondation/jacques-rougerie-architecte-visionnaire/_index.html
   - title: Les communautés
+    slug: les-communautes
     target: "/fr/fondation/les-communautes/"
     kind: page
     new_tab: false
     children:
     - title: Ambassadeurs
+      slug: ambassadeurs
       target: "/fr/fondation/les-communautes/ambassadeurs/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/fondation/les-communautes/ambassadeurs"
       file: content/fr/pages/fondation/les-communautes/ambassadeurs/_index.html
     - title: Conseil scientifique
+      slug: conseil-scientifique
       target: "/fr/fondation/les-communautes/conseil-scientifique/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/fondation/les-communautes/conseil-scientifique"
       file: content/fr/pages/fondation/les-communautes/conseil-scientifique/_index.html
+    descendants_targets:
+    - "/fr/fondation/les-communautes/ambassadeurs/"
+    - "/fr/fondation/les-communautes/conseil-scientifique/"
     path: "/pages/fondation/les-communautes"
     file: content/fr/pages/fondation/les-communautes/_index.html
+  descendants_targets:
+  - "/fr/fondation/gouvernance/"
+  - "/fr/fondation/jacques-rougerie-architecte-visionnaire/"
+  - "/fr/fondation/jacques-rougerie-architecte-visionnaire/creations-emblematiques/"
+  - "/fr/fondation/jacques-rougerie-architecte-visionnaire/explorateur-du-futur/"
+  - "/fr/fondation/la-fondation/"
+  - "/fr/fondation/lacademie-des-beaux-arts-institut-de-france/"
+  - "/fr/fondation/les-communautes/"
+  - "/fr/fondation/les-communautes/ambassadeurs/"
+  - "/fr/fondation/les-communautes/conseil-scientifique/"
+  - "/fr/fondation/partenaires-mecenes/"
   path: "/pages/fondation"
   file: content/fr/pages/fondation/_index.html
 - title: Concours
+  slug: concours
   target: "/fr/concours/"
   kind: page
   new_tab: false
   children:
   - title: Prix d'architecture et d'innovation
+    slug: prix-d-architecture-et-d-innovation
     target: "/fr/concours/prix-darchitecture-et-dinnovation/"
     kind: page
     new_tab: false
     children:
     - title: Enjeux littoraux & Montée des eaux
+      slug: enjeux-littoraux-montee-des-eaux
       target: "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux"
       file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/_index.html
     - title: Mer
+      slug: mer
       target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/concours/prix-darchitecture-et-dinnovation/mer"
       file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/mer/_index.html
     - title: Espace
+      slug: espace
       target: "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/concours/prix-darchitecture-et-dinnovation/espace"
       file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/espace/_index.html
+    descendants_targets:
+    - "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
+    - "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
+    - "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
     path: "/pages/concours/prix-darchitecture-et-dinnovation"
     file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/_index.html
   - title: Prix de l’art
+    slug: prix-de-l-art
     target: "/fr/concours/prix-de-lart/"
     kind: page
     new_tab: false
     children:
     - title: Art dans la mer
+      slug: art-dans-la-mer
       target: "/fr/concours/prix-de-lart/art-dans-la-mer/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/concours/prix-de-lart/art-dans-la-mer"
       file: content/fr/pages/concours/prix-de-lart/art-dans-la-mer/_index.html
     - title: Art dans l'espace
+      slug: art-dans-l-espace
       target: "/fr/concours/prix-de-lart/art-dans-l-espace/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/concours/prix-de-lart/art-dans-l-espace"
       file: content/fr/pages/concours/prix-de-lart/art-dans-l-espace/_index.html
+    descendants_targets:
+    - "/fr/concours/prix-de-lart/art-dans-l-espace/"
+    - "/fr/concours/prix-de-lart/art-dans-la-mer/"
     path: "/pages/concours/prix-de-lart"
     file: content/fr/pages/concours/prix-de-lart/_index.html
   - title: Database
+    slug: database
     target: "/fr/concours/database/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/concours/database"
     file: content/fr/pages/concours/database/_index.html
+  descendants_targets:
+  - "/fr/concours/database/"
+  - "/fr/concours/prix-darchitecture-et-dinnovation/"
+  - "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
+  - "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
+  - "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
+  - "/fr/concours/prix-de-lart/"
+  - "/fr/concours/prix-de-lart/art-dans-l-espace/"
+  - "/fr/concours/prix-de-lart/art-dans-la-mer/"
   path: "/pages/concours"
   file: content/fr/pages/concours/_index.html
 - title: Junior Ambassadeurs
+  slug: junior-ambassadeurs
   target: "/fr/junior-ambassadeurs/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/junior-ambassadeurs"
   file: content/fr/pages/junior-ambassadeurs/_index.html
 - title: Actualités
+  slug: actualites
   target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Faire un don
+  slug: faire-un-don
   target: https://soutenir.academiedesbeauxarts.fr/jacquesrougerie/~mon-don?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyP4IK%2BGTZ1f2T5U2RnLFcLFGqnsSZAzVLI1OJpaC7NeRA%3D%3D&amp%3Blang=fr_FR&_cv=1
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
