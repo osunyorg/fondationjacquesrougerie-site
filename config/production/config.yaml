@@ -7,6 +7,11 @@ osuny:
   website:
     id: f033833a-3aa1-4070-82d7-ddda98b96964
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "fondation-jacques-rougerie.com"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
