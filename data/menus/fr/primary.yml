@@ -131,13 +131,13 @@ items:
     children:
     - title: Enjeux littoraux & Montée des eaux
       slug: enjeux-littoraux-montee-des-eaux
-      target: "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
+      target: "/fr/concours/prix-darchitecture-et-dinnovation/terres-submersibles/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux"
-      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/_index.html
+      path: "/pages/concours/prix-darchitecture-et-dinnovation/terres-submersibles"
+      file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/terres-submersibles/_index.html
     - title: Mer
       slug: mer
       target: "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
@@ -157,9 +157,9 @@ items:
       path: "/pages/concours/prix-darchitecture-et-dinnovation/espace"
       file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/espace/_index.html
     descendants_targets:
-    - "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
     - "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
     - "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
+    - "/fr/concours/prix-darchitecture-et-dinnovation/terres-submersibles/"
     path: "/pages/concours/prix-darchitecture-et-dinnovation"
     file: content/fr/pages/concours/prix-darchitecture-et-dinnovation/_index.html
   - title: Prix de l’art
@@ -203,9 +203,9 @@ items:
   descendants_targets:
   - "/fr/concours/database/"
   - "/fr/concours/prix-darchitecture-et-dinnovation/"
-  - "/fr/concours/prix-darchitecture-et-dinnovation/enjeux-littoraux-montee-eaux/"
   - "/fr/concours/prix-darchitecture-et-dinnovation/espace/"
   - "/fr/concours/prix-darchitecture-et-dinnovation/mer/"
+  - "/fr/concours/prix-darchitecture-et-dinnovation/terres-submersibles/"
   - "/fr/concours/prix-de-lart/"
   - "/fr/concours/prix-de-lart/art-dans-l-espace/"
   - "/fr/concours/prix-de-lart/art-dans-la-mer/"

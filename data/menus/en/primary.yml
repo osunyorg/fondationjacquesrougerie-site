@@ -131,13 +131,13 @@ items:
     children:
     - title: Littoral stakes & Rising waters
       slug: littoral-stakes-rising-waters
-      target: "/en/competitions/architecture-and-innovation-awards/littoral-rising-waters/"
+      target: "/en/competitions/architecture-and-innovation-awards/flood-prone-lands/"
       kind: page
       new_tab: false
       children: []
       descendants_targets: []
-      path: "/pages/competitions/architecture-and-innovation-awards/littoral-rising-waters"
-      file: content/en/pages/competitions/architecture-and-innovation-awards/littoral-rising-waters/_index.html
+      path: "/pages/competitions/architecture-and-innovation-awards/flood-prone-lands"
+      file: content/en/pages/competitions/architecture-and-innovation-awards/flood-prone-lands/_index.html
     - title: Sea
       slug: sea
       target: "/en/competitions/architecture-and-innovation-awards/sea/"
@@ -157,7 +157,7 @@ items:
       path: "/pages/competitions/architecture-and-innovation-awards/space"
       file: content/en/pages/competitions/architecture-and-innovation-awards/space/_index.html
     descendants_targets:
-    - "/en/competitions/architecture-and-innovation-awards/littoral-rising-waters/"
+    - "/en/competitions/architecture-and-innovation-awards/flood-prone-lands/"
     - "/en/competitions/architecture-and-innovation-awards/sea/"
     - "/en/competitions/architecture-and-innovation-awards/space/"
     path: "/pages/competitions/architecture-and-innovation-awards"
@@ -202,7 +202,7 @@ items:
     file: content/en/pages/competitions/database/_index.html
   descendants_targets:
   - "/en/competitions/architecture-and-innovation-awards/"
-  - "/en/competitions/architecture-and-innovation-awards/littoral-rising-waters/"
+  - "/en/competitions/architecture-and-innovation-awards/flood-prone-lands/"
   - "/en/competitions/architecture-and-innovation-awards/sea/"
   - "/en/competitions/architecture-and-innovation-awards/space/"
   - "/en/competitions/art-awards/"
