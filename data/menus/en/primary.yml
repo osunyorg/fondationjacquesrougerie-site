@@ -129,8 +129,8 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Littoral stakes & Rising waters
-      slug: littoral-stakes-rising-waters
+    - title: Flood-prone lands
+      slug: flood-prone-lands
       target: "/en/competitions/architecture-and-innovation-awards/flood-prone-lands/"
       kind: page
       new_tab: false

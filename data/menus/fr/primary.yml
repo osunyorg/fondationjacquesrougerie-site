@@ -129,8 +129,8 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Enjeux littoraux & Montée des eaux
-      slug: enjeux-littoraux-montee-des-eaux
+    - title: Terres submersibles
+      slug: terres-submersibles
       target: "/fr/concours/prix-darchitecture-et-dinnovation/terres-submersibles/"
       kind: page
       new_tab: false
