@@ -90,6 +90,15 @@ items:
       descendants_targets: []
       path: "/pages/fondation/les-communautes/conseil-scientifique"
       file: content/fr/pages/fondation/les-communautes/conseil-scientifique/_index.html
+    - title: Junior Ambassadeurs
+      slug: junior-ambassadeurs
+      target: "/fr/junior-ambassadeurs/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/junior-ambassadeurs"
+      file: content/fr/pages/junior-ambassadeurs/_index.html
     - title: Ambassadeurs
       slug: ambassadeurs
       target: "/fr/fondation/les-communautes/ambassadeurs/"
@@ -102,6 +111,7 @@ items:
     descendants_targets:
     - "/fr/fondation/les-communautes/ambassadeurs/"
     - "/fr/fondation/les-communautes/conseil-scientifique/"
+    - "/fr/junior-ambassadeurs/"
     path: "/pages/fondation/les-communautes"
     file: content/fr/pages/fondation/les-communautes/_index.html
   descendants_targets:
@@ -115,6 +125,7 @@ items:
   - "/fr/fondation/les-communautes/ambassadeurs/"
   - "/fr/fondation/les-communautes/conseil-scientifique/"
   - "/fr/fondation/partenaires-mecenes/"
+  - "/fr/junior-ambassadeurs/"
   path: "/pages/fondation"
   file: content/fr/pages/fondation/_index.html
 - title: Concours
