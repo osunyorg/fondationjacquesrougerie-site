@@ -81,15 +81,6 @@ items:
     kind: page
     new_tab: false
     children:
-    - title: Ambassadeurs
-      slug: ambassadeurs
-      target: "/fr/fondation/les-communautes/ambassadeurs/"
-      kind: page
-      new_tab: false
-      children: []
-      descendants_targets: []
-      path: "/pages/fondation/les-communautes/ambassadeurs"
-      file: content/fr/pages/fondation/les-communautes/ambassadeurs/_index.html
     - title: Conseil scientifique
       slug: conseil-scientifique
       target: "/fr/fondation/les-communautes/conseil-scientifique/"
@@ -99,6 +90,15 @@ items:
       descendants_targets: []
       path: "/pages/fondation/les-communautes/conseil-scientifique"
       file: content/fr/pages/fondation/les-communautes/conseil-scientifique/_index.html
+    - title: Ambassadeurs
+      slug: ambassadeurs
+      target: "/fr/fondation/les-communautes/ambassadeurs/"
+      kind: page
+      new_tab: false
+      children: []
+      descendants_targets: []
+      path: "/pages/fondation/les-communautes/ambassadeurs"
+      file: content/fr/pages/fondation/les-communautes/ambassadeurs/_index.html
     descendants_targets:
     - "/fr/fondation/les-communautes/ambassadeurs/"
     - "/fr/fondation/les-communautes/conseil-scientifique/"
