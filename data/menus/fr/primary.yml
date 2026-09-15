@@ -240,6 +240,13 @@ items:
   descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
+- title: Ressources
+  slug: ressources
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 - title: Faire un don
   slug: faire-un-don
   target: https://soutenir.academiedesbeauxarts.fr/jacquesrougerie/~mon-don?ns_ira_cr_arg=IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyP4IK%2BGTZ1f2T5U2RnLFcLFGqnsSZAzVLI1OJpaC7NeRA%3D%3D&amp%3Blang=fr_FR&_cv=1
